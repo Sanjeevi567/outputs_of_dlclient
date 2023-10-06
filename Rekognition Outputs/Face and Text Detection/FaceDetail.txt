@@ -1,0 +1,7 @@
+Gender: Male and Confidence Level: 99.94914
+Age Range:
+Lowest Prediction Age: 50 and Highest Prediction Age: 58
+Smile: true and Confidence Levle: 96.29309
+Beard: true and Confidence: 99.91413
+Bounding Box Details:
+Width: 0.1716756, Height: 0.3673895, Left: 0.42820787,Top: 0.15215644

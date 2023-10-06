@@ -1,0 +1,5 @@
+Celebrity Name: Scarlett Johansson
+Celebrity Amazon ID: 2aw6Dh9b
+Celebrity Gender: Female
+Celebrity Bounding Box Details: Width: 0.26,Height: 0.56,Left: 0.42,Top: 0.01
+Is Celebrity Smiling?: true

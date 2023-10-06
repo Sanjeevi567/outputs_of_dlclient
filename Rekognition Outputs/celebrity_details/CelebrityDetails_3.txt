@@ -1,0 +1,5 @@
+Celebrity Name: Anushka Sharma
+Celebrity Amazon ID: 3BD4R2U
+Celebrity Gender: Female
+Celebrity Bounding Box Details: Width: 0.29,Height: 0.40,Left: 0.33,Top: 0.16
+Is Celebrity Smiling?: true

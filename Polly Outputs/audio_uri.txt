@@ -1,0 +1,1 @@
+URL for the synthesized audio: https://s3.ap-south-1.amazonaws.com/dlcontent567/speech_synthesis_task_outputs/.ab682ef1-5ff6-425e-939b-2db5f2cac04b.mp3

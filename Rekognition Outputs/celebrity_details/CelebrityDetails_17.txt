@@ -1,0 +1,5 @@
+Celebrity Name: Tom Felton(Draco Malfoy)
+Celebrity Amazon ID: Fg2DC6f
+Celebrity Gender: Male
+Celebrity Bounding Box Details: Width: 0.28,Height: 0.32,Left: 0.36,Top: 0.16
+Is Celebrity Smiling?: false

@@ -1,0 +1,5 @@
+Celebrity Name: Joseph Vijay(Ilaya Thalapathy)
+Celebrity Amazon ID: 3Z0wT1
+Celebrity Gender: Male
+Celebrity Bounding Box Details: Width: 0.30,Height: 0.32,Left: 0.29,Top: 0.13
+Is Celebrity Smiling?: false

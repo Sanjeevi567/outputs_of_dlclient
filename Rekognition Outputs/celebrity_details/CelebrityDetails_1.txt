@@ -1,0 +1,5 @@
+Celebrity Name: Vin Diesel(Dominic Toretto,I'm Groot)
+Celebrity Amazon ID: 3pX7rg3
+Celebrity Gender: Male
+Celebrity Bounding Box Details: Width: 0.46,Height: 0.42,Left: 0.27,Top: 0.13
+Is Celebrity Smiling?: true

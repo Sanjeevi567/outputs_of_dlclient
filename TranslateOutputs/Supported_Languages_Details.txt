@@ -1,0 +1,228 @@
+Language Name: Afrikaans
+Language Code: af
+
+Language Name: Albanian
+Language Code: sq
+
+Language Name: Amharic
+Language Code: am
+
+Language Name: Arabic
+Language Code: ar
+
+Language Name: Armenian
+Language Code: hy
+
+Language Name: Auto
+Language Code: auto
+
+Language Name: Azerbaijani
+Language Code: az
+
+Language Name: Bengali
+Language Code: bn
+
+Language Name: Bosnian
+Language Code: bs
+
+Language Name: Bulgarian
+Language Code: bg
+
+Language Name: Canadian French
+Language Code: fr-CA
+
+Language Name: Catalan
+Language Code: ca
+
+Language Name: Chinese
+Language Code: zh
+
+Language Name: Chinese Traditional
+Language Code: zh-TW
+
+Language Name: Croatian
+Language Code: hr
+
+Language Name: Czech
+Language Code: cs
+
+Language Name: Danish
+Language Code: da
+
+Language Name: Dari
+Language Code: fa-AF
+
+Language Name: Dutch
+Language Code: nl
+
+Language Name: English
+Language Code: en
+
+Language Name: Estonian
+Language Code: et
+
+Language Name: Finnish
+Language Code: fi
+
+Language Name: French
+Language Code: fr
+
+Language Name: Georgian
+Language Code: ka
+
+Language Name: German
+Language Code: de
+
+Language Name: Greek
+Language Code: el
+
+Language Name: Gujarati
+Language Code: gu
+
+Language Name: Haitian Creole
+Language Code: ht
+
+Language Name: Hausa
+Language Code: ha
+
+Language Name: Hebrew
+Language Code: he
+
+Language Name: Hindi
+Language Code: hi
+
+Language Name: Hungarian
+Language Code: hu
+
+Language Name: Icelandic
+Language Code: is
+
+Language Name: Indonesian
+Language Code: id
+
+Language Name: Irish
+Language Code: ga
+
+Language Name: Italian
+Language Code: it
+
+Language Name: Japanese
+Language Code: ja
+
+Language Name: Kannada
+Language Code: kn
+
+Language Name: Kazakh
+Language Code: kk
+
+Language Name: Korean
+Language Code: ko
+
+Language Name: Latvian
+Language Code: lv
+
+Language Name: Lithuanian
+Language Code: lt
+
+Language Name: Macedonian
+Language Code: mk
+
+Language Name: Malay
+Language Code: ms
+
+Language Name: Malayalam
+Language Code: ml
+
+Language Name: Maltese
+Language Code: mt
+
+Language Name: Marathi
+Language Code: mr
+
+Language Name: Mexican Spanish
+Language Code: es-MX
+
+Language Name: Mongolian
+Language Code: mn
+
+Language Name: Norwegian
+Language Code: no
+
+Language Name: Pashto
+Language Code: ps
+
+Language Name: Persian
+Language Code: fa
+
+Language Name: Polish
+Language Code: pl
+
+Language Name: Portugal Portuguese
+Language Code: pt-PT
+
+Language Name: Portuguese
+Language Code: pt
+
+Language Name: Punjabi
+Language Code: pa
+
+Language Name: Romanian
+Language Code: ro
+
+Language Name: Russian
+Language Code: ru
+
+Language Name: Serbian
+Language Code: sr
+
+Language Name: Sinhala
+Language Code: si
+
+Language Name: Slovak
+Language Code: sk
+
+Language Name: Slovenian
+Language Code: sl
+
+Language Name: Somali
+Language Code: so
+
+Language Name: Spanish
+Language Code: es
+
+Language Name: Swahili
+Language Code: sw
+
+Language Name: Swedish
+Language Code: sv
+
+Language Name: Tagalog
+Language Code: tl
+
+Language Name: Tamil
+Language Code: ta
+
+Language Name: Telugu
+Language Code: te
+
+Language Name: Thai
+Language Code: th
+
+Language Name: Turkish
+Language Code: tr
+
+Language Name: Ukrainian
+Language Code: uk
+
+Language Name: Urdu
+Language Code: ur
+
+Language Name: Uzbek
+Language Code: uz
+
+Language Name: Vietnamese
+Language Code: vi
+
+Language Name: Welsh
+Language Code: cy
+

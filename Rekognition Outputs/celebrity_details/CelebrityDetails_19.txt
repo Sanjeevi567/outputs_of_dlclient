@@ -1,0 +1,5 @@
+Celebrity Name: Robert Downey Jr.(Iron Man)
+Celebrity Amazon ID: 27H1g5
+Celebrity Gender: Male
+Celebrity Bounding Box Details: Width: 0.17,Height: 0.38,Left: 0.43,Top: 0.14
+Is Celebrity Smiling?: true

@@ -1,0 +1,5 @@
+Celebrity Name: Ralph Fiennes(voldemort)
+Celebrity Amazon ID: 3mI1bp0r
+Celebrity Gender: Male
+Celebrity Bounding Box Details: Width: 0.48,Height: 0.51,Left: 0.25,Top: 0.17
+Is Celebrity Smiling?: true

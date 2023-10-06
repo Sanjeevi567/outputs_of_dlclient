@@ -1,0 +1,1 @@
+The Job ID for initiating text detection is: 462b0820547fe80629552eaf2c51a1e692fd11c48b323062c2b54944ee4a7c74

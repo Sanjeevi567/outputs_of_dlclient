@@ -1,0 +1,5000 @@
+Timestamp: 0
+Detected Text: deeplearningbook.org/contents/rep
+Text Type: LINE
+Confidence Level: 97.2247
+
+Timestamp: 0
+Detected Text: +
+Text Type: LINE
+Confidence Level: 97.76233
+
+Timestamp: 0
+Detected Text: https://www.deeplearningbook.org/contents/representation.html
+Text Type: LINE
+Confidence Level: 93.5545
+
+Timestamp: 0
+Detected Text: -
+Text Type: LINE
+Confidence Level: 80.446465
+
+Timestamp: 0
+Detected Text: 120%
+Text Type: LINE
+Confidence Level: 99.29674
+
+Timestamp: 0
+Detected Text: +
+Text Type: LINE
+Confidence Level: 95.89677
+
+Timestamp: 0
+Detected Text: Greedy layer-wise unsupervised pretraining relies on a single-layer represen-
+Text Type: LINE
+Confidence Level: 99.74283
+
+Timestamp: 0
+Detected Text: tation learning algorithm such as an RBM, a single-layer autoencoder, a sparse
+Text Type: LINE
+Confidence Level: 99.64867
+
+Timestamp: 0
+Detected Text: coding model, or another model that learns latent representations. Each layer is
+Text Type: LINE
+Confidence Level: 99.83881
+
+Timestamp: 0
+Detected Text: pretrained using unsupervised learning, taking the output of the previous layer
+Text Type: LINE
+Confidence Level: 99.89655
+
+Timestamp: 0
+Detected Text: and producing as output a new representation of the data, whose distribution (or
+Text Type: LINE
+Confidence Level: 99.75256
+
+Timestamp: 0
+Detected Text: its relation to other variables, such as categories to predict) is hopefully simpler.
+Text Type: LINE
+Confidence Level: 99.776085
+
+Timestamp: 0
+Detected Text: See algorithm 15.1 for a formal description.
+Text Type: LINE
+Confidence Level: 99.72337
+
+Timestamp: 0
+Detected Text: Greedy layer-wise training procedures based on unsupervised criteria have long
+Text Type: LINE
+Confidence Level: 99.92023
+
+Timestamp: 0
+Detected Text: been used to sidestep the difficulty of
+Text Type: LINE
+Confidence Level: 99.88813
+
+Timestamp: 0
+Detected Text: deeplearningbook.org/contents/rep
+Text Type: WORD
+Confidence Level: 97.2247
+
+Timestamp: 0
+Detected Text: +
+Text Type: WORD
+Confidence Level: 97.76233
+
+Timestamp: 0
+Detected Text: https://www.deeplearningbook.org/contents/representation.html
+Text Type: WORD
+Confidence Level: 93.5545
+
+Timestamp: 0
+Detected Text: -
+Text Type: WORD
+Confidence Level: 80.446465
+
+Timestamp: 0
+Detected Text: 120%
+Text Type: WORD
+Confidence Level: 99.29674
+
+Timestamp: 0
+Detected Text: +
+Text Type: WORD
+Confidence Level: 95.89677
+
+Timestamp: 0
+Detected Text: Greedy
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 0
+Detected Text: layer-wise
+Text Type: WORD
+Confidence Level: 99.77583
+
+Timestamp: 0
+Detected Text: unsupervised
+Text Type: WORD
+Confidence Level: 99.74043
+
+Timestamp: 0
+Detected Text: pretraining
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 0
+Detected Text: relies
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 0
+Detected Text: on
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 0
+Detected Text: a
+Text Type: WORD
+Confidence Level: 98.55616
+
+Timestamp: 0
+Detected Text: single-layer
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 0
+Detected Text: represen-
+Text Type: WORD
+Confidence Level: 99.613045
+
+Timestamp: 0
+Detected Text: tation
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 0
+Detected Text: learning
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 0
+Detected Text: algorithm
+Text Type: WORD
+Confidence Level: 99.93444
+
+Timestamp: 0
+Detected Text: such
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 0
+Detected Text: as
+Text Type: WORD
+Confidence Level: 99.91669
+
+Timestamp: 0
+Detected Text: an
+Text Type: WORD
+Confidence Level: 99.54238
+
+Timestamp: 0
+Detected Text: RBM,
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 0
+Detected Text: a
+Text Type: WORD
+Confidence Level: 98.547615
+
+Timestamp: 0
+Detected Text: single-layer
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 0
+Detected Text: autoencoder,
+Text Type: WORD
+Confidence Level: 99.17156
+
+Timestamp: 0
+Detected Text: a
+Text Type: WORD
+Confidence Level: 98.77409
+
+Timestamp: 0
+Detected Text: sparse
+Text Type: WORD
+Confidence Level: 99.89727
+
+Timestamp: 0
+Detected Text: coding
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 0
+Detected Text: model,
+Text Type: WORD
+Confidence Level: 99.96053
+
+Timestamp: 0
+Detected Text: or
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 0
+Detected Text: another
+Text Type: WORD
+Confidence Level: 99.93024
+
+Timestamp: 0
+Detected Text: model
+Text Type: WORD
+Confidence Level: 99.76239
+
+Timestamp: 0
+Detected Text: that
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 0
+Detected Text: learns
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 0
+Detected Text: latent
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 0
+Detected Text: representations.
+Text Type: WORD
+Confidence Level: 98.74513
+
+Timestamp: 0
+Detected Text: Each
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 0
+Detected Text: layer
+Text Type: WORD
+Confidence Level: 99.98901
+
+Timestamp: 0
+Detected Text: is
+Text Type: WORD
+Confidence Level: 99.67844
+
+Timestamp: 0
+Detected Text: pretrained
+Text Type: WORD
+Confidence Level: 99.78841
+
+Timestamp: 0
+Detected Text: using
+Text Type: WORD
+Confidence Level: 99.85929
+
+Timestamp: 0
+Detected Text: unsupervised
+Text Type: WORD
+Confidence Level: 99.77489
+
+Timestamp: 0
+Detected Text: learning,
+Text Type: WORD
+Confidence Level: 99.43957
+
+Timestamp: 0
+Detected Text: taking
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 0
+Detected Text: the
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 0
+Detected Text: output
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 0
+Detected Text: of
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 0
+Detected Text: the
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 0
+Detected Text: previous
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 0
+Detected Text: layer
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 0
+Detected Text: and
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 0
+Detected Text: producing
+Text Type: WORD
+Confidence Level: 99.9766
+
+Timestamp: 0
+Detected Text: as
+Text Type: WORD
+Confidence Level: 99.6621
+
+Timestamp: 0
+Detected Text: output
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 0
+Detected Text: a
+Text Type: WORD
+Confidence Level: 99.02293
+
+Timestamp: 0
+Detected Text: new
+Text Type: WORD
+Confidence Level: 99.7878
+
+Timestamp: 0
+Detected Text: representation
+Text Type: WORD
+Confidence Level: 99.23847
+
+Timestamp: 0
+Detected Text: of
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 0
+Detected Text: the
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 0
+Detected Text: data,
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 0
+Detected Text: whose
+Text Type: WORD
+Confidence Level: 99.90563
+
+Timestamp: 0
+Detected Text: distribution
+Text Type: WORD
+Confidence Level: 99.362015
+
+Timestamp: 0
+Detected Text: (or
+Text Type: WORD
+Confidence Level: 99.8278
+
+Timestamp: 0
+Detected Text: its
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 0
+Detected Text: relation
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 0
+Detected Text: to
+Text Type: WORD
+Confidence Level: 99.63661
+
+Timestamp: 0
+Detected Text: other
+Text Type: WORD
+Confidence Level: 99.98559
+
+Timestamp: 0
+Detected Text: variables,
+Text Type: WORD
+Confidence Level: 99.195885
+
+Timestamp: 0
+Detected Text: such
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 0
+Detected Text: as
+Text Type: WORD
+Confidence Level: 99.65947
+
+Timestamp: 0
+Detected Text: categories
+Text Type: WORD
+Confidence Level: 99.75095
+
+Timestamp: 0
+Detected Text: to
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 0
+Detected Text: predict)
+Text Type: WORD
+Confidence Level: 99.3175
+
+Timestamp: 0
+Detected Text: is
+Text Type: WORD
+Confidence Level: 99.75269
+
+Timestamp: 0
+Detected Text: hopefully
+Text Type: WORD
+Confidence Level: 99.88345
+
+Timestamp: 0
+Detected Text: simpler.
+Text Type: WORD
+Confidence Level: 99.90696
+
+Timestamp: 0
+Detected Text: See
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 0
+Detected Text: algorithm
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 0
+Detected Text: 15.1
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 0
+Detected Text: for
+Text Type: WORD
+Confidence Level: 99.87552
+
+Timestamp: 0
+Detected Text: a
+Text Type: WORD
+Confidence Level: 98.4793
+
+Timestamp: 0
+Detected Text: formal
+Text Type: WORD
+Confidence Level: 99.98013
+
+Timestamp: 0
+Detected Text: description.
+Text Type: WORD
+Confidence Level: 99.728615
+
+Timestamp: 0
+Detected Text: Greedy
+Text Type: WORD
+Confidence Level: 99.86033
+
+Timestamp: 0
+Detected Text: layer-wise
+Text Type: WORD
+Confidence Level: 99.88659
+
+Timestamp: 0
+Detected Text: training
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 0
+Detected Text: procedures
+Text Type: WORD
+Confidence Level: 99.86187
+
+Timestamp: 0
+Detected Text: based
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 0
+Detected Text: on
+Text Type: WORD
+Confidence Level: 99.59351
+
+Timestamp: 0
+Detected Text: unsupervised
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 0
+Detected Text: criteria
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 0
+Detected Text: have
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 0
+Detected Text: long
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 0
+Detected Text: been
+Text Type: WORD
+Confidence Level: 99.72954
+
+Timestamp: 0
+Detected Text: used
+Text Type: WORD
+Confidence Level: 99.71264
+
+Timestamp: 0
+Detected Text: to
+Text Type: WORD
+Confidence Level: 99.9171
+
+Timestamp: 0
+Detected Text: sidestep
+Text Type: WORD
+Confidence Level: 99.85764
+
+Timestamp: 0
+Detected Text: the
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 0
+Detected Text: difficulty
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 0
+Detected Text: of
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 1000
+Detected Text: deeplearningbook.org/contents/rep
+Text Type: LINE
+Confidence Level: 97.09294
+
+Timestamp: 1000
+Detected Text: +
+Text Type: LINE
+Confidence Level: 97.73924
+
+Timestamp: 1000
+Detected Text: https://www.deeplearningbook.org/contents/representation.html
+Text Type: LINE
+Confidence Level: 81.14071
+
+Timestamp: 1000
+Detected Text: -
+Text Type: LINE
+Confidence Level: 90.16131
+
+Timestamp: 1000
+Detected Text: 120%
+Text Type: LINE
+Confidence Level: 99.259674
+
+Timestamp: 1000
+Detected Text: +
+Text Type: LINE
+Confidence Level: 95.83717
+
+Timestamp: 1000
+Detected Text: Greedy layer-wise unsupervised pretraining relies on a single-layer represen-
+Text Type: LINE
+Confidence Level: 99.738945
+
+Timestamp: 1000
+Detected Text: tation learning algorithm such as an RBM, a single-layer autoencoder, a sparse
+Text Type: LINE
+Confidence Level: 99.653694
+
+Timestamp: 1000
+Detected Text: coding model, or another model that learns latent representations. Each layer is
+Text Type: LINE
+Confidence Level: 99.82069
+
+Timestamp: 1000
+Detected Text: pretrained using unsupervised learning, taking the output of the previous layer
+Text Type: LINE
+Confidence Level: 99.89786
+
+Timestamp: 1000
+Detected Text: and producing as output a new representation of the data, whose distribution (or
+Text Type: LINE
+Confidence Level: 99.7581
+
+Timestamp: 1000
+Detected Text: its relation to other variables, such as categories to predict) is hopefully simpler.
+Text Type: LINE
+Confidence Level: 99.83772
+
+Timestamp: 1000
+Detected Text: See algorithm 15.1 for a formal description.
+Text Type: LINE
+Confidence Level: 99.7344
+
+Timestamp: 1000
+Detected Text: Greedy layer-wise training procedures based on unsupervised criteria have long
+Text Type: LINE
+Confidence Level: 99.92808
+
+Timestamp: 1000
+Detected Text: been used to sidestep the difficulty of
+Text Type: LINE
+Confidence Level: 99.90593
+
+Timestamp: 1000
+Detected Text: deeplearningbook.org/contents/rep
+Text Type: WORD
+Confidence Level: 97.09294
+
+Timestamp: 1000
+Detected Text: +
+Text Type: WORD
+Confidence Level: 97.73924
+
+Timestamp: 1000
+Detected Text: https://www.deeplearningbook.org/contents/representation.html
+Text Type: WORD
+Confidence Level: 81.14071
+
+Timestamp: 1000
+Detected Text: -
+Text Type: WORD
+Confidence Level: 90.16131
+
+Timestamp: 1000
+Detected Text: 120%
+Text Type: WORD
+Confidence Level: 99.259674
+
+Timestamp: 1000
+Detected Text: +
+Text Type: WORD
+Confidence Level: 95.83717
+
+Timestamp: 1000
+Detected Text: Greedy
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 1000
+Detected Text: layer-wise
+Text Type: WORD
+Confidence Level: 99.71349
+
+Timestamp: 1000
+Detected Text: unsupervised
+Text Type: WORD
+Confidence Level: 99.7533
+
+Timestamp: 1000
+Detected Text: pretraining
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 1000
+Detected Text: relies
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 1000
+Detected Text: on
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 1000
+Detected Text: a
+Text Type: WORD
+Confidence Level: 98.56554
+
+Timestamp: 1000
+Detected Text: single-layer
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 1000
+Detected Text: represen-
+Text Type: WORD
+Confidence Level: 99.61813
+
+Timestamp: 1000
+Detected Text: tation
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 1000
+Detected Text: learning
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 1000
+Detected Text: algorithm
+Text Type: WORD
+Confidence Level: 99.93133
+
+Timestamp: 1000
+Detected Text: such
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 1000
+Detected Text: as
+Text Type: WORD
+Confidence Level: 99.90309
+
+Timestamp: 1000
+Detected Text: an
+Text Type: WORD
+Confidence Level: 99.54051
+
+Timestamp: 1000
+Detected Text: RBM,
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 1000
+Detected Text: a
+Text Type: WORD
+Confidence Level: 98.60408
+
+Timestamp: 1000
+Detected Text: single-layer
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 1000
+Detected Text: autoencoder,
+Text Type: WORD
+Confidence Level: 99.21329
+
+Timestamp: 1000
+Detected Text: a
+Text Type: WORD
+Confidence Level: 98.77936
+
+Timestamp: 1000
+Detected Text: sparse
+Text Type: WORD
+Confidence Level: 99.87271
+
+Timestamp: 1000
+Detected Text: coding
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 1000
+Detected Text: model,
+Text Type: WORD
+Confidence Level: 99.93702
+
+Timestamp: 1000
+Detected Text: or
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 1000
+Detected Text: another
+Text Type: WORD
+Confidence Level: 99.85704
+
+Timestamp: 1000
+Detected Text: model
+Text Type: WORD
+Confidence Level: 99.75364
+
+Timestamp: 1000
+Detected Text: that
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 1000
+Detected Text: learns
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 1000
+Detected Text: latent
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 1000
+Detected Text: representations.
+Text Type: WORD
+Confidence Level: 98.68634
+
+Timestamp: 1000
+Detected Text: Each
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 1000
+Detected Text: layer
+Text Type: WORD
+Confidence Level: 99.95636
+
+Timestamp: 1000
+Detected Text: is
+Text Type: WORD
+Confidence Level: 99.657875
+
+Timestamp: 1000
+Detected Text: pretrained
+Text Type: WORD
+Confidence Level: 99.79398
+
+Timestamp: 1000
+Detected Text: using
+Text Type: WORD
+Confidence Level: 99.85375
+
+Timestamp: 1000
+Detected Text: unsupervised
+Text Type: WORD
+Confidence Level: 99.77288
+
+Timestamp: 1000
+Detected Text: learning,
+Text Type: WORD
+Confidence Level: 99.45584
+
+Timestamp: 1000
+Detected Text: taking
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 1000
+Detected Text: the
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 1000
+Detected Text: output
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 1000
+Detected Text: of
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 1000
+Detected Text: the
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 1000
+Detected Text: previous
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 1000
+Detected Text: layer
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 1000
+Detected Text: and
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 1000
+Detected Text: producing
+Text Type: WORD
+Confidence Level: 99.976845
+
+Timestamp: 1000
+Detected Text: as
+Text Type: WORD
+Confidence Level: 99.66146
+
+Timestamp: 1000
+Detected Text: output
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 1000
+Detected Text: a
+Text Type: WORD
+Confidence Level: 99.1427
+
+Timestamp: 1000
+Detected Text: new
+Text Type: WORD
+Confidence Level: 99.787704
+
+Timestamp: 1000
+Detected Text: representation
+Text Type: WORD
+Confidence Level: 99.22782
+
+Timestamp: 1000
+Detected Text: of
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 1000
+Detected Text: the
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 1000
+Detected Text: data,
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 1000
+Detected Text: whose
+Text Type: WORD
+Confidence Level: 99.89008
+
+Timestamp: 1000
+Detected Text: distribution
+Text Type: WORD
+Confidence Level: 99.36269
+
+Timestamp: 1000
+Detected Text: (or
+Text Type: WORD
+Confidence Level: 99.80604
+
+Timestamp: 1000
+Detected Text: its
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 1000
+Detected Text: relation
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 1000
+Detected Text: to
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 1000
+Detected Text: other
+Text Type: WORD
+Confidence Level: 99.99927
+
+Timestamp: 1000
+Detected Text: variables,
+Text Type: WORD
+Confidence Level: 99.234024
+
+Timestamp: 1000
+Detected Text: such
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 1000
+Detected Text: as
+Text Type: WORD
+Confidence Level: 99.65636
+
+Timestamp: 1000
+Detected Text: categories
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 1000
+Detected Text: to
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 1000
+Detected Text: predict)
+Text Type: WORD
+Confidence Level: 99.3716
+
+Timestamp: 1000
+Detected Text: is
+Text Type: WORD
+Confidence Level: 99.73705
+
+Timestamp: 1000
+Detected Text: hopefully
+Text Type: WORD
+Confidence Level: 99.89207
+
+Timestamp: 1000
+Detected Text: simpler.
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 1000
+Detected Text: See
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 1000
+Detected Text: algorithm
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 1000
+Detected Text: 15.1
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 1000
+Detected Text: for
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 1000
+Detected Text: a
+Text Type: WORD
+Confidence Level: 98.447
+
+Timestamp: 1000
+Detected Text: formal
+Text Type: WORD
+Confidence Level: 99.98788
+
+Timestamp: 1000
+Detected Text: description.
+Text Type: WORD
+Confidence Level: 99.70588
+
+Timestamp: 1000
+Detected Text: Greedy
+Text Type: WORD
+Confidence Level: 99.86409
+
+Timestamp: 1000
+Detected Text: layer-wise
+Text Type: WORD
+Confidence Level: 99.88195
+
+Timestamp: 1000
+Detected Text: training
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 1000
+Detected Text: procedures
+Text Type: WORD
+Confidence Level: 99.88593
+
+Timestamp: 1000
+Detected Text: based
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 1000
+Detected Text: on
+Text Type: WORD
+Confidence Level: 99.64882
+
+Timestamp: 1000
+Detected Text: unsupervised
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 1000
+Detected Text: criteria
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 1000
+Detected Text: have
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 1000
+Detected Text: long
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 1000
+Detected Text: been
+Text Type: WORD
+Confidence Level: 99.73356
+
+Timestamp: 1000
+Detected Text: used
+Text Type: WORD
+Confidence Level: 99.76707
+
+Timestamp: 1000
+Detected Text: to
+Text Type: WORD
+Confidence Level: 99.97805
+
+Timestamp: 1000
+Detected Text: sidestep
+Text Type: WORD
+Confidence Level: 99.8628
+
+Timestamp: 1000
+Detected Text: the
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 1000
+Detected Text: difficulty
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 1000
+Detected Text: of
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 2000
+Detected Text: deeplearningbook.org/contents/rep
+Text Type: LINE
+Confidence Level: 96.178215
+
+Timestamp: 2000
+Detected Text: +
+Text Type: LINE
+Confidence Level: 97.740395
+
+Timestamp: 2000
+Detected Text: https://www.deeplearningbook.org/contents/representation.html
+Text Type: LINE
+Confidence Level: 81.40499
+
+Timestamp: 2000
+Detected Text: -
+Text Type: LINE
+Confidence Level: 90.25052
+
+Timestamp: 2000
+Detected Text: 120%
+Text Type: LINE
+Confidence Level: 99.26023
+
+Timestamp: 2000
+Detected Text: +
+Text Type: LINE
+Confidence Level: 95.84708
+
+Timestamp: 2000
+Detected Text: Greedy layer-wise unsupervised pretraining relies on a single-layer represen-
+Text Type: LINE
+Confidence Level: 99.74271
+
+Timestamp: 2000
+Detected Text: tation learning algorithm such as an RBM, a single-layer autoencoder, a sparse
+Text Type: LINE
+Confidence Level: 99.65661
+
+Timestamp: 2000
+Detected Text: coding model, or another model that learns latent representations. Each layer is
+Text Type: LINE
+Confidence Level: 99.82075
+
+Timestamp: 2000
+Detected Text: pretrained using unsupervised learning, taking the output of the previous layer
+Text Type: LINE
+Confidence Level: 99.89559
+
+Timestamp: 2000
+Detected Text: and producing as output a new representation of the data, whose distribution (or
+Text Type: LINE
+Confidence Level: 99.75737
+
+Timestamp: 2000
+Detected Text: its relation to other variables, such as categories to predict) is hopefully simpler.
+Text Type: LINE
+Confidence Level: 99.8345
+
+Timestamp: 2000
+Detected Text: See algorithm 15.1 for a formal description.
+Text Type: LINE
+Confidence Level: 99.73454
+
+Timestamp: 2000
+Detected Text: Greedy layer-wise training procedures based on unsupervised criteria have long
+Text Type: LINE
+Confidence Level: 99.92855
+
+Timestamp: 2000
+Detected Text: been used to sidestep the difficulty of
+Text Type: LINE
+Confidence Level: 99.90635
+
+Timestamp: 2000
+Detected Text: deeplearningbook.org/contents/rep
+Text Type: WORD
+Confidence Level: 96.178215
+
+Timestamp: 2000
+Detected Text: +
+Text Type: WORD
+Confidence Level: 97.740395
+
+Timestamp: 2000
+Detected Text: https://www.deeplearningbook.org/contents/representation.html
+Text Type: WORD
+Confidence Level: 81.40499
+
+Timestamp: 2000
+Detected Text: -
+Text Type: WORD
+Confidence Level: 90.25052
+
+Timestamp: 2000
+Detected Text: 120%
+Text Type: WORD
+Confidence Level: 99.26023
+
+Timestamp: 2000
+Detected Text: +
+Text Type: WORD
+Confidence Level: 95.84708
+
+Timestamp: 2000
+Detected Text: Greedy
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 2000
+Detected Text: layer-wise
+Text Type: WORD
+Confidence Level: 99.77074
+
+Timestamp: 2000
+Detected Text: unsupervised
+Text Type: WORD
+Confidence Level: 99.75424
+
+Timestamp: 2000
+Detected Text: pretraining
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 2000
+Detected Text: relies
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 2000
+Detected Text: on
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 2000
+Detected Text: a
+Text Type: WORD
+Confidence Level: 98.53861
+
+Timestamp: 2000
+Detected Text: single-layer
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 2000
+Detected Text: represen-
+Text Type: WORD
+Confidence Level: 99.62079
+
+Timestamp: 2000
+Detected Text: tation
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 2000
+Detected Text: learning
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 2000
+Detected Text: algorithm
+Text Type: WORD
+Confidence Level: 99.93105
+
+Timestamp: 2000
+Detected Text: such
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 2000
+Detected Text: as
+Text Type: WORD
+Confidence Level: 99.89815
+
+Timestamp: 2000
+Detected Text: an
+Text Type: WORD
+Confidence Level: 99.54079
+
+Timestamp: 2000
+Detected Text: RBM,
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 2000
+Detected Text: a
+Text Type: WORD
+Confidence Level: 98.62533
+
+Timestamp: 2000
+Detected Text: single-layer
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 2000
+Detected Text: autoencoder,
+Text Type: WORD
+Confidence Level: 99.218155
+
+Timestamp: 2000
+Detected Text: a
+Text Type: WORD
+Confidence Level: 98.7926
+
+Timestamp: 2000
+Detected Text: sparse
+Text Type: WORD
+Confidence Level: 99.8732
+
+Timestamp: 2000
+Detected Text: coding
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 2000
+Detected Text: model,
+Text Type: WORD
+Confidence Level: 99.938194
+
+Timestamp: 2000
+Detected Text: or
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 2000
+Detected Text: another
+Text Type: WORD
+Confidence Level: 99.86098
+
+Timestamp: 2000
+Detected Text: model
+Text Type: WORD
+Confidence Level: 99.75334
+
+Timestamp: 2000
+Detected Text: that
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 2000
+Detected Text: learns
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 2000
+Detected Text: latent
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 2000
+Detected Text: representations.
+Text Type: WORD
+Confidence Level: 98.6823
+
+Timestamp: 2000
+Detected Text: Each
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 2000
+Detected Text: layer
+Text Type: WORD
+Confidence Level: 99.95534
+
+Timestamp: 2000
+Detected Text: is
+Text Type: WORD
+Confidence Level: 99.65882
+
+Timestamp: 2000
+Detected Text: pretrained
+Text Type: WORD
+Confidence Level: 99.793304
+
+Timestamp: 2000
+Detected Text: using
+Text Type: WORD
+Confidence Level: 99.85329
+
+Timestamp: 2000
+Detected Text: unsupervised
+Text Type: WORD
+Confidence Level: 99.773636
+
+Timestamp: 2000
+Detected Text: learning,
+Text Type: WORD
+Confidence Level: 99.43127
+
+Timestamp: 2000
+Detected Text: taking
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 2000
+Detected Text: the
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 2000
+Detected Text: output
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 2000
+Detected Text: of
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 2000
+Detected Text: the
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 2000
+Detected Text: previous
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 2000
+Detected Text: layer
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 2000
+Detected Text: and
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 2000
+Detected Text: producing
+Text Type: WORD
+Confidence Level: 99.97639
+
+Timestamp: 2000
+Detected Text: as
+Text Type: WORD
+Confidence Level: 99.66277
+
+Timestamp: 2000
+Detected Text: output
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 2000
+Detected Text: a
+Text Type: WORD
+Confidence Level: 99.13071
+
+Timestamp: 2000
+Detected Text: new
+Text Type: WORD
+Confidence Level: 99.78791
+
+Timestamp: 2000
+Detected Text: representation
+Text Type: WORD
+Confidence Level: 99.228615
+
+Timestamp: 2000
+Detected Text: of
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 2000
+Detected Text: the
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 2000
+Detected Text: data,
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 2000
+Detected Text: whose
+Text Type: WORD
+Confidence Level: 99.88946
+
+Timestamp: 2000
+Detected Text: distribution
+Text Type: WORD
+Confidence Level: 99.36286
+
+Timestamp: 2000
+Detected Text: (or
+Text Type: WORD
+Confidence Level: 99.80706
+
+Timestamp: 2000
+Detected Text: its
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 2000
+Detected Text: relation
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 2000
+Detected Text: to
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 2000
+Detected Text: other
+Text Type: WORD
+Confidence Level: 99.998505
+
+Timestamp: 2000
+Detected Text: variables,
+Text Type: WORD
+Confidence Level: 99.29845
+
+Timestamp: 2000
+Detected Text: such
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 2000
+Detected Text: as
+Text Type: WORD
+Confidence Level: 99.65672
+
+Timestamp: 2000
+Detected Text: categories
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 2000
+Detected Text: to
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 2000
+Detected Text: predict)
+Text Type: WORD
+Confidence Level: 99.36075
+
+Timestamp: 2000
+Detected Text: is
+Text Type: WORD
+Confidence Level: 99.73694
+
+Timestamp: 2000
+Detected Text: hopefully
+Text Type: WORD
+Confidence Level: 99.89079
+
+Timestamp: 2000
+Detected Text: simpler.
+Text Type: WORD
+Confidence Level: 99.906395
+
+Timestamp: 2000
+Detected Text: See
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 2000
+Detected Text: algorithm
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 2000
+Detected Text: 15.1
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 2000
+Detected Text: for
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 2000
+Detected Text: a
+Text Type: WORD
+Confidence Level: 98.45198
+
+Timestamp: 2000
+Detected Text: formal
+Text Type: WORD
+Confidence Level: 99.98777
+
+Timestamp: 2000
+Detected Text: description.
+Text Type: WORD
+Confidence Level: 99.70207
+
+Timestamp: 2000
+Detected Text: Greedy
+Text Type: WORD
+Confidence Level: 99.864685
+
+Timestamp: 2000
+Detected Text: layer-wise
+Text Type: WORD
+Confidence Level: 99.884415
+
+Timestamp: 2000
+Detected Text: training
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 2000
+Detected Text: procedures
+Text Type: WORD
+Confidence Level: 99.88674
+
+Timestamp: 2000
+Detected Text: based
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 2000
+Detected Text: on
+Text Type: WORD
+Confidence Level: 99.6497
+
+Timestamp: 2000
+Detected Text: unsupervised
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 2000
+Detected Text: criteria
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 2000
+Detected Text: have
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 2000
+Detected Text: long
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 2000
+Detected Text: been
+Text Type: WORD
+Confidence Level: 99.73434
+
+Timestamp: 2000
+Detected Text: used
+Text Type: WORD
+Confidence Level: 99.76787
+
+Timestamp: 2000
+Detected Text: to
+Text Type: WORD
+Confidence Level: 99.97825
+
+Timestamp: 2000
+Detected Text: sidestep
+Text Type: WORD
+Confidence Level: 99.86397
+
+Timestamp: 2000
+Detected Text: the
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 2000
+Detected Text: difficulty
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 2000
+Detected Text: of
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 3000
+Detected Text: deeplearningbook.org/contents/rep
+Text Type: LINE
+Confidence Level: 97.10973
+
+Timestamp: 3000
+Detected Text: +
+Text Type: LINE
+Confidence Level: 97.64838
+
+Timestamp: 3000
+Detected Text: https://www.deeplearningbook.org/contents/representation.html
+Text Type: LINE
+Confidence Level: 81.04243
+
+Timestamp: 3000
+Detected Text: 120%
+Text Type: LINE
+Confidence Level: 99.27889
+
+Timestamp: 3000
+Detected Text: +
+Text Type: LINE
+Confidence Level: 96.02551
+
+Timestamp: 3000
+Detected Text: Greedy layer-wise unsupervised pretraining relies on a single-layer represen-
+Text Type: LINE
+Confidence Level: 99.74133
+
+Timestamp: 3000
+Detected Text: tation learning algorithm such as an RBM, a single-layer autoencoder, a sparse
+Text Type: LINE
+Confidence Level: 99.71064
+
+Timestamp: 3000
+Detected Text: coding model, or another model that learns latent representations. Each layer is
+Text Type: LINE
+Confidence Level: 99.83655
+
+Timestamp: 3000
+Detected Text: pretrained using unsupervised learning, taking the output of the previous layer
+Text Type: LINE
+Confidence Level: 99.84663
+
+Timestamp: 3000
+Detected Text: and producing as output a new representation of the data, whose distribution (or
+Text Type: LINE
+Confidence Level: 99.74192
+
+Timestamp: 3000
+Detected Text: its relation to other variables, such as categories to predict) is hopefully simpler.
+Text Type: LINE
+Confidence Level: 99.84325
+
+Timestamp: 3000
+Detected Text: See algorithm 15.1 for a formal description.
+Text Type: LINE
+Confidence Level: 99.7557
+
+Timestamp: 3000
+Detected Text: Greedy layer-wise training procedures based on unsupervised criteria have long
+Text Type: LINE
+Confidence Level: 99.961235
+
+Timestamp: 3000
+Detected Text: been used to sidestep the difficulty of jointly
+Text Type: LINE
+Confidence Level: 99.968376
+
+Timestamp: 3000
+Detected Text: deeplearningbook.org/contents/rep
+Text Type: WORD
+Confidence Level: 97.10973
+
+Timestamp: 3000
+Detected Text: +
+Text Type: WORD
+Confidence Level: 97.64838
+
+Timestamp: 3000
+Detected Text: https://www.deeplearningbook.org/contents/representation.html
+Text Type: WORD
+Confidence Level: 81.04243
+
+Timestamp: 3000
+Detected Text: 120%
+Text Type: WORD
+Confidence Level: 99.27889
+
+Timestamp: 3000
+Detected Text: +
+Text Type: WORD
+Confidence Level: 96.02551
+
+Timestamp: 3000
+Detected Text: Greedy
+Text Type: WORD
+Confidence Level: 99.88086
+
+Timestamp: 3000
+Detected Text: layer-wise
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 3000
+Detected Text: unsupervised
+Text Type: WORD
+Confidence Level: 99.96978
+
+Timestamp: 3000
+Detected Text: pretraining
+Text Type: WORD
+Confidence Level: 99.76237
+
+Timestamp: 3000
+Detected Text: relies
+Text Type: WORD
+Confidence Level: 99.95048
+
+Timestamp: 3000
+Detected Text: on
+Text Type: WORD
+Confidence Level: 99.70371
+
+Timestamp: 3000
+Detected Text: a
+Text Type: WORD
+Confidence Level: 98.55963
+
+Timestamp: 3000
+Detected Text: single-layer
+Text Type: WORD
+Confidence Level: 99.85729
+
+Timestamp: 3000
+Detected Text: represen-
+Text Type: WORD
+Confidence Level: 99.98791
+
+Timestamp: 3000
+Detected Text: tation
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 3000
+Detected Text: learning
+Text Type: WORD
+Confidence Level: 99.144196
+
+Timestamp: 3000
+Detected Text: algorithm
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 3000
+Detected Text: such
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 3000
+Detected Text: as
+Text Type: WORD
+Confidence Level: 99.58083
+
+Timestamp: 3000
+Detected Text: an
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 3000
+Detected Text: RBM,
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 3000
+Detected Text: a
+Text Type: WORD
+Confidence Level: 98.99802
+
+Timestamp: 3000
+Detected Text: single-layer
+Text Type: WORD
+Confidence Level: 99.80166
+
+Timestamp: 3000
+Detected Text: autoencoder,
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 3000
+Detected Text: a
+Text Type: WORD
+Confidence Level: 99.00303
+
+Timestamp: 3000
+Detected Text: sparse
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 3000
+Detected Text: coding
+Text Type: WORD
+Confidence Level: 99.90451
+
+Timestamp: 3000
+Detected Text: model,
+Text Type: WORD
+Confidence Level: 99.928535
+
+Timestamp: 3000
+Detected Text: or
+Text Type: WORD
+Confidence Level: 99.48241
+
+Timestamp: 3000
+Detected Text: another
+Text Type: WORD
+Confidence Level: 99.356636
+
+Timestamp: 3000
+Detected Text: model
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 3000
+Detected Text: that
+Text Type: WORD
+Confidence Level: 99.86791
+
+Timestamp: 3000
+Detected Text: learns
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 3000
+Detected Text: latent
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 3000
+Detected Text: representations.
+Text Type: WORD
+Confidence Level: 99.63011
+
+Timestamp: 3000
+Detected Text: Each
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 3000
+Detected Text: layer
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 3000
+Detected Text: is
+Text Type: WORD
+Confidence Level: 99.86847
+
+Timestamp: 3000
+Detected Text: pretrained
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 3000
+Detected Text: using
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 3000
+Detected Text: unsupervised
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 3000
+Detected Text: learning,
+Text Type: WORD
+Confidence Level: 98.80774
+
+Timestamp: 3000
+Detected Text: taking
+Text Type: WORD
+Confidence Level: 99.9557
+
+Timestamp: 3000
+Detected Text: the
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 3000
+Detected Text: output
+Text Type: WORD
+Confidence Level: 99.70145
+
+Timestamp: 3000
+Detected Text: of
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 3000
+Detected Text: the
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 3000
+Detected Text: previous
+Text Type: WORD
+Confidence Level: 99.848045
+
+Timestamp: 3000
+Detected Text: layer
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 3000
+Detected Text: and
+Text Type: WORD
+Confidence Level: 99.91928
+
+Timestamp: 3000
+Detected Text: producing
+Text Type: WORD
+Confidence Level: 99.46602
+
+Timestamp: 3000
+Detected Text: as
+Text Type: WORD
+Confidence Level: 99.6346
+
+Timestamp: 3000
+Detected Text: output
+Text Type: WORD
+Confidence Level: 99.66029
+
+Timestamp: 3000
+Detected Text: a
+Text Type: WORD
+Confidence Level: 98.6504
+
+Timestamp: 3000
+Detected Text: new
+Text Type: WORD
+Confidence Level: 99.92216
+
+Timestamp: 3000
+Detected Text: representation
+Text Type: WORD
+Confidence Level: 99.42201
+
+Timestamp: 3000
+Detected Text: of
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 3000
+Detected Text: the
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 3000
+Detected Text: data,
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 3000
+Detected Text: whose
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 3000
+Detected Text: distribution
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 3000
+Detected Text: (or
+Text Type: WORD
+Confidence Level: 99.970215
+
+Timestamp: 3000
+Detected Text: its
+Text Type: WORD
+Confidence Level: 99.97607
+
+Timestamp: 3000
+Detected Text: relation
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 3000
+Detected Text: to
+Text Type: WORD
+Confidence Level: 99.72056
+
+Timestamp: 3000
+Detected Text: other
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 3000
+Detected Text: variables,
+Text Type: WORD
+Confidence Level: 99.520065
+
+Timestamp: 3000
+Detected Text: such
+Text Type: WORD
+Confidence Level: 99.927
+
+Timestamp: 3000
+Detected Text: as
+Text Type: WORD
+Confidence Level: 99.86489
+
+Timestamp: 3000
+Detected Text: categories
+Text Type: WORD
+Confidence Level: 99.78299
+
+Timestamp: 3000
+Detected Text: to
+Text Type: WORD
+Confidence Level: 99.94663
+
+Timestamp: 3000
+Detected Text: predict)
+Text Type: WORD
+Confidence Level: 99.40385
+
+Timestamp: 3000
+Detected Text: is
+Text Type: WORD
+Confidence Level: 99.82022
+
+Timestamp: 3000
+Detected Text: hopefully
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 3000
+Detected Text: simpler.
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 3000
+Detected Text: See
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 3000
+Detected Text: algorithm
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 3000
+Detected Text: 15.1
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 3000
+Detected Text: for
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 3000
+Detected Text: a
+Text Type: WORD
+Confidence Level: 98.2899
+
+Timestamp: 3000
+Detected Text: formal
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 3000
+Detected Text: description.
+Text Type: WORD
+Confidence Level: 99.99999
+
+Timestamp: 3000
+Detected Text: Greedy
+Text Type: WORD
+Confidence Level: 99.92728
+
+Timestamp: 3000
+Detected Text: layer-wise
+Text Type: WORD
+Confidence Level: 99.94882
+
+Timestamp: 3000
+Detected Text: training
+Text Type: WORD
+Confidence Level: 99.97228
+
+Timestamp: 3000
+Detected Text: procedures
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 3000
+Detected Text: based
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 3000
+Detected Text: on
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 3000
+Detected Text: unsupervised
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 3000
+Detected Text: criteria
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 3000
+Detected Text: have
+Text Type: WORD
+Confidence Level: 99.76399
+
+Timestamp: 3000
+Detected Text: long
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 3000
+Detected Text: been
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 3000
+Detected Text: used
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 3000
+Detected Text: to
+Text Type: WORD
+Confidence Level: 99.99832
+
+Timestamp: 3000
+Detected Text: sidestep
+Text Type: WORD
+Confidence Level: 99.74868
+
+Timestamp: 3000
+Detected Text: the
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 3000
+Detected Text: difficulty
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 3000
+Detected Text: of
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 3000
+Detected Text: jointly
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 4000
+Detected Text: deeplearningbook.org/contents/rep
+Text Type: LINE
+Confidence Level: 96.07841
+
+Timestamp: 4000
+Detected Text: +
+Text Type: LINE
+Confidence Level: 97.66429
+
+Timestamp: 4000
+Detected Text: -
+Text Type: LINE
+Confidence Level: 89.41788
+
+Timestamp: 4000
+Detected Text: 120%
+Text Type: LINE
+Confidence Level: 99.325424
+
+Timestamp: 4000
+Detected Text: +
+Text Type: LINE
+Confidence Level: 96.27867
+
+Timestamp: 4000
+Detected Text: that greedy layer-wise pretraining is not required to train fully connected deep
+Text Type: LINE
+Confidence Level: 99.86588
+
+Timestamp: 4000
+Detected Text: architectures, but the unsupervised pretraining approach was the first method to
+Text Type: LINE
+Confidence Level: 99.88855
+
+Timestamp: 4000
+Detected Text: succeed.
+Text Type: LINE
+Confidence Level: 99.49745
+
+Timestamp: 4000
+Detected Text: Greedy layer-wise pretraining is called greedy because it is a greedy algo-
+Text Type: LINE
+Confidence Level: 99.86162
+
+Timestamp: 4000
+Detected Text: 526
+Text Type: LINE
+Confidence Level: 100
+
+Timestamp: 4000
+Detected Text: CHAPTER 15. REPRESENTATION LEARNING
+Text Type: LINE
+Confidence Level: 99.80019
+
+Timestamp: 4000
+Detected Text: rithm, meaning that it optimizes each piece of the solution independently, one
+Text Type: LINE
+Confidence Level: 99.93586
+
+Timestamp: 4000
+Detected Text: piece at a time, rather than jointly optimizing all pieces. It is called layer-wise
+Text Type: LINE
+Confidence Level: 99.87152
+
+Timestamp: 4000
+Detected Text: because these independent pieces are the layers of the network. Specifically, greedy
+Text Type: LINE
+Confidence Level: 99.91151
+
+Timestamp: 4000
+Detected Text: deeplearningbook.org/contents/rep
+Text Type: WORD
+Confidence Level: 96.07841
+
+Timestamp: 4000
+Detected Text: +
+Text Type: WORD
+Confidence Level: 97.66429
+
+Timestamp: 4000
+Detected Text: -
+Text Type: WORD
+Confidence Level: 89.41788
+
+Timestamp: 4000
+Detected Text: 120%
+Text Type: WORD
+Confidence Level: 99.325424
+
+Timestamp: 4000
+Detected Text: +
+Text Type: WORD
+Confidence Level: 96.27867
+
+Timestamp: 4000
+Detected Text: that
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 4000
+Detected Text: greedy
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 4000
+Detected Text: layer-wise
+Text Type: WORD
+Confidence Level: 99.629196
+
+Timestamp: 4000
+Detected Text: pretraining
+Text Type: WORD
+Confidence Level: 99.66255
+
+Timestamp: 4000
+Detected Text: is
+Text Type: WORD
+Confidence Level: 99.71026
+
+Timestamp: 4000
+Detected Text: not
+Text Type: WORD
+Confidence Level: 99.98605
+
+Timestamp: 4000
+Detected Text: required
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 4000
+Detected Text: to
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 4000
+Detected Text: train
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 4000
+Detected Text: fully
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 4000
+Detected Text: connected
+Text Type: WORD
+Confidence Level: 99.40256
+
+Timestamp: 4000
+Detected Text: deep
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 4000
+Detected Text: architectures,
+Text Type: WORD
+Confidence Level: 99.31169
+
+Timestamp: 4000
+Detected Text: but
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 4000
+Detected Text: the
+Text Type: WORD
+Confidence Level: 99.95187
+
+Timestamp: 4000
+Detected Text: unsupervised
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 4000
+Detected Text: pretraining
+Text Type: WORD
+Confidence Level: 99.93213
+
+Timestamp: 4000
+Detected Text: approach
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 4000
+Detected Text: was
+Text Type: WORD
+Confidence Level: 99.9202
+
+Timestamp: 4000
+Detected Text: the
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 4000
+Detected Text: first
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 4000
+Detected Text: method
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 4000
+Detected Text: to
+Text Type: WORD
+Confidence Level: 99.65817
+
+Timestamp: 4000
+Detected Text: succeed.
+Text Type: WORD
+Confidence Level: 99.49745
+
+Timestamp: 4000
+Detected Text: Greedy
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 4000
+Detected Text: layer-wise
+Text Type: WORD
+Confidence Level: 99.87624
+
+Timestamp: 4000
+Detected Text: pretraining
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 4000
+Detected Text: is
+Text Type: WORD
+Confidence Level: 99.96816
+
+Timestamp: 4000
+Detected Text: called
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 4000
+Detected Text: greedy
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 4000
+Detected Text: because
+Text Type: WORD
+Confidence Level: 99.8927
+
+Timestamp: 4000
+Detected Text: it
+Text Type: WORD
+Confidence Level: 99.85634
+
+Timestamp: 4000
+Detected Text: is
+Text Type: WORD
+Confidence Level: 99.72957
+
+Timestamp: 4000
+Detected Text: a
+Text Type: WORD
+Confidence Level: 99.17552
+
+Timestamp: 4000
+Detected Text: greedy
+Text Type: WORD
+Confidence Level: 99.92241
+
+Timestamp: 4000
+Detected Text: algo-
+Text Type: WORD
+Confidence Level: 99.918526
+
+Timestamp: 4000
+Detected Text: 526
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 4000
+Detected Text: CHAPTER
+Text Type: WORD
+Confidence Level: 99.898476
+
+Timestamp: 4000
+Detected Text: 15.
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 4000
+Detected Text: REPRESENTATION
+Text Type: WORD
+Confidence Level: 99.83993
+
+Timestamp: 4000
+Detected Text: LEARNING
+Text Type: WORD
+Confidence Level: 99.462364
+
+Timestamp: 4000
+Detected Text: rithm,
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 4000
+Detected Text: meaning
+Text Type: WORD
+Confidence Level: 99.81998
+
+Timestamp: 4000
+Detected Text: that
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 4000
+Detected Text: it
+Text Type: WORD
+Confidence Level: 99.991394
+
+Timestamp: 4000
+Detected Text: optimizes
+Text Type: WORD
+Confidence Level: 99.81638
+
+Timestamp: 4000
+Detected Text: each
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 4000
+Detected Text: piece
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 4000
+Detected Text: of
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 4000
+Detected Text: the
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 4000
+Detected Text: solution
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 4000
+Detected Text: independently,
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 4000
+Detected Text: one
+Text Type: WORD
+Confidence Level: 99.602554
+
+Timestamp: 4000
+Detected Text: piece
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 4000
+Detected Text: at
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 4000
+Detected Text: a
+Text Type: WORD
+Confidence Level: 98.83863
+
+Timestamp: 4000
+Detected Text: time,
+Text Type: WORD
+Confidence Level: 99.94812
+
+Timestamp: 4000
+Detected Text: rather
+Text Type: WORD
+Confidence Level: 99.93568
+
+Timestamp: 4000
+Detected Text: than
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 4000
+Detected Text: jointly
+Text Type: WORD
+Confidence Level: 99.83282
+
+Timestamp: 4000
+Detected Text: optimizing
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 4000
+Detected Text: all
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 4000
+Detected Text: pieces.
+Text Type: WORD
+Confidence Level: 99.96772
+
+Timestamp: 4000
+Detected Text: It
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 4000
+Detected Text: is
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 4000
+Detected Text: called
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 4000
+Detected Text: layer-wise
+Text Type: WORD
+Confidence Level: 99.67836
+
+Timestamp: 4000
+Detected Text: because
+Text Type: WORD
+Confidence Level: 99.805046
+
+Timestamp: 4000
+Detected Text: these
+Text Type: WORD
+Confidence Level: 99.92486
+
+Timestamp: 4000
+Detected Text: independent
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 4000
+Detected Text: pieces
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 4000
+Detected Text: are
+Text Type: WORD
+Confidence Level: 99.97713
+
+Timestamp: 4000
+Detected Text: the
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 4000
+Detected Text: layers
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 4000
+Detected Text: of
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 4000
+Detected Text: the
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 4000
+Detected Text: network.
+Text Type: WORD
+Confidence Level: 99.32903
+
+Timestamp: 4000
+Detected Text: Specifically,
+Text Type: WORD
+Confidence Level: 99.90197
+
+Timestamp: 4000
+Detected Text: greedy
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: deeplearningbook.org/contents/rep
+Text Type: LINE
+Confidence Level: 97.558
+
+Timestamp: 5000
+Detected Text: +
+Text Type: LINE
+Confidence Level: 97.60785
+
+Timestamp: 5000
+Detected Text: 120%
+Text Type: LINE
+Confidence Level: 99.32679
+
+Timestamp: 5000
+Detected Text: +
+Text Type: LINE
+Confidence Level: 95.67633
+
+Timestamp: 5000
+Detected Text: Greedy layer-wise pretraining is called greedy because it is a greedy algo-
+Text Type: LINE
+Confidence Level: 99.84588
+
+Timestamp: 5000
+Detected Text: 526
+Text Type: LINE
+Confidence Level: 99.71677
+
+Timestamp: 5000
+Detected Text: CHAPTER 15. REPRESENTATION LEARNING
+Text Type: LINE
+Confidence Level: 99.41034
+
+Timestamp: 5000
+Detected Text: rithm, meaning that it optimizes each piece of the solution independently, one
+Text Type: LINE
+Confidence Level: 99.97658
+
+Timestamp: 5000
+Detected Text: piece at a time, rather than jointly optimizing all pieces. It is called layer-wise
+Text Type: LINE
+Confidence Level: 99.84755
+
+Timestamp: 5000
+Detected Text: because these independent pieces are the layers of the network. Specifically, greedy
+Text Type: LINE
+Confidence Level: 99.71969
+
+Timestamp: 5000
+Detected Text: layer-wise pretraining proceeds one layer at a time, training the k-th layer while
+Text Type: LINE
+Confidence Level: 99.79476
+
+Timestamp: 5000
+Detected Text: keeping the previous ones fixed. In particular, the lower layers (which are trained
+Text Type: LINE
+Confidence Level: 99.96031
+
+Timestamp: 5000
+Detected Text: first) are not adapted after the upper layers are introduced. It is called unsuper-
+Text Type: LINE
+Confidence Level: 99.00477
+
+Timestamp: 5000
+Detected Text: deeplearningbook.org/contents/rep
+Text Type: WORD
+Confidence Level: 97.558
+
+Timestamp: 5000
+Detected Text: +
+Text Type: WORD
+Confidence Level: 97.60785
+
+Timestamp: 5000
+Detected Text: 120%
+Text Type: WORD
+Confidence Level: 99.32679
+
+Timestamp: 5000
+Detected Text: +
+Text Type: WORD
+Confidence Level: 95.67633
+
+Timestamp: 5000
+Detected Text: Greedy
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: layer-wise
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: pretraining
+Text Type: WORD
+Confidence Level: 99.903595
+
+Timestamp: 5000
+Detected Text: is
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: called
+Text Type: WORD
+Confidence Level: 99.985695
+
+Timestamp: 5000
+Detected Text: greedy
+Text Type: WORD
+Confidence Level: 99.89491
+
+Timestamp: 5000
+Detected Text: because
+Text Type: WORD
+Confidence Level: 99.90023
+
+Timestamp: 5000
+Detected Text: it
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: is
+Text Type: WORD
+Confidence Level: 99.94982
+
+Timestamp: 5000
+Detected Text: a
+Text Type: WORD
+Confidence Level: 98.65405
+
+Timestamp: 5000
+Detected Text: greedy
+Text Type: WORD
+Confidence Level: 99.86222
+
+Timestamp: 5000
+Detected Text: algo-
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: 526
+Text Type: WORD
+Confidence Level: 99.71677
+
+Timestamp: 5000
+Detected Text: CHAPTER
+Text Type: WORD
+Confidence Level: 99.31348
+
+Timestamp: 5000
+Detected Text: 15.
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: REPRESENTATION
+Text Type: WORD
+Confidence Level: 99.2832
+
+Timestamp: 5000
+Detected Text: LEARNING
+Text Type: WORD
+Confidence Level: 99.04468
+
+Timestamp: 5000
+Detected Text: rithm,
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: meaning
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: that
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: it
+Text Type: WORD
+Confidence Level: 99.91345
+
+Timestamp: 5000
+Detected Text: optimizes
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: each
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: piece
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: of
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: the
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: solution
+Text Type: WORD
+Confidence Level: 99.86669
+
+Timestamp: 5000
+Detected Text: independently,
+Text Type: WORD
+Confidence Level: 99.93874
+
+Timestamp: 5000
+Detected Text: one
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: piece
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: at
+Text Type: WORD
+Confidence Level: 99.82643
+
+Timestamp: 5000
+Detected Text: a
+Text Type: WORD
+Confidence Level: 98.69601
+
+Timestamp: 5000
+Detected Text: time,
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: rather
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: than
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: jointly
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: optimizing
+Text Type: WORD
+Confidence Level: 99.91825
+
+Timestamp: 5000
+Detected Text: all
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: pieces.
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: It
+Text Type: WORD
+Confidence Level: 99.57256
+
+Timestamp: 5000
+Detected Text: is
+Text Type: WORD
+Confidence Level: 99.8524
+
+Timestamp: 5000
+Detected Text: called
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: layer-wise
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: because
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: these
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: independent
+Text Type: WORD
+Confidence Level: 99.83269
+
+Timestamp: 5000
+Detected Text: pieces
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: are
+Text Type: WORD
+Confidence Level: 99.62011
+
+Timestamp: 5000
+Detected Text: the
+Text Type: WORD
+Confidence Level: 99.84596
+
+Timestamp: 5000
+Detected Text: layers
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: of
+Text Type: WORD
+Confidence Level: 99.9558
+
+Timestamp: 5000
+Detected Text: the
+Text Type: WORD
+Confidence Level: 99.96269
+
+Timestamp: 5000
+Detected Text: network.
+Text Type: WORD
+Confidence Level: 97.41901
+
+Timestamp: 5000
+Detected Text: Specifically,
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: greedy
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: layer-wise
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: pretraining
+Text Type: WORD
+Confidence Level: 99.85786
+
+Timestamp: 5000
+Detected Text: proceeds
+Text Type: WORD
+Confidence Level: 99.94315
+
+Timestamp: 5000
+Detected Text: one
+Text Type: WORD
+Confidence Level: 99.4511
+
+Timestamp: 5000
+Detected Text: layer
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: at
+Text Type: WORD
+Confidence Level: 99.6992
+
+Timestamp: 5000
+Detected Text: a
+Text Type: WORD
+Confidence Level: 98.48981
+
+Timestamp: 5000
+Detected Text: time,
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: training
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: the
+Text Type: WORD
+Confidence Level: 99.89081
+
+Timestamp: 5000
+Detected Text: k-th
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: layer
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: while
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: keeping
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: the
+Text Type: WORD
+Confidence Level: 99.89228
+
+Timestamp: 5000
+Detected Text: previous
+Text Type: WORD
+Confidence Level: 99.967636
+
+Timestamp: 5000
+Detected Text: ones
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: fixed.
+Text Type: WORD
+Confidence Level: 99.97286
+
+Timestamp: 5000
+Detected Text: In
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: particular,
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: the
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: lower
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: layers
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: (which
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: are
+Text Type: WORD
+Confidence Level: 99.65128
+
+Timestamp: 5000
+Detected Text: trained
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: first)
+Text Type: WORD
+Confidence Level: 87.469505
+
+Timestamp: 5000
+Detected Text: are
+Text Type: WORD
+Confidence Level: 99.84345
+
+Timestamp: 5000
+Detected Text: not
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: adapted
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: after
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: the
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: upper
+Text Type: WORD
+Confidence Level: 99.77445
+
+Timestamp: 5000
+Detected Text: layers
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: are
+Text Type: WORD
+Confidence Level: 99.82535
+
+Timestamp: 5000
+Detected Text: introduced.
+Text Type: WORD
+Confidence Level: 99.60763
+
+Timestamp: 5000
+Detected Text: It
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: is
+Text Type: WORD
+Confidence Level: 99.7531
+
+Timestamp: 5000
+Detected Text: called
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 5000
+Detected Text: unsuper-
+Text Type: WORD
+Confidence Level: 99.79325
+
+Timestamp: 6000
+Detected Text: deeplearningbook.org/contents/rep
+Text Type: LINE
+Confidence Level: 97.80194
+
+Timestamp: 6000
+Detected Text: +
+Text Type: LINE
+Confidence Level: 97.60745
+
+Timestamp: 6000
+Detected Text: 120%
+Text Type: LINE
+Confidence Level: 99.328
+
+Timestamp: 6000
+Detected Text: +
+Text Type: LINE
+Confidence Level: 95.6716
+
+Timestamp: 6000
+Detected Text: Greedy layer-wise pretraining is called greedy because it is a greedy algo-
+Text Type: LINE
+Confidence Level: 99.845665
+
+Timestamp: 6000
+Detected Text: 526
+Text Type: LINE
+Confidence Level: 99.71663
+
+Timestamp: 6000
+Detected Text: CHAPTER 15. REPRESENTATION LEARNING
+Text Type: LINE
+Confidence Level: 99.41099
+
+Timestamp: 6000
+Detected Text: rithm, meaning that it optimizes each piece of the solution independently, one
+Text Type: LINE
+Confidence Level: 99.97673
+
+Timestamp: 6000
+Detected Text: piece at a time, rather than jointly optimizing all pieces. It is called layer-wise
+Text Type: LINE
+Confidence Level: 99.84757
+
+Timestamp: 6000
+Detected Text: because these independent pieces are the layers of the network. Specifically, greedy
+Text Type: LINE
+Confidence Level: 99.71955
+
+Timestamp: 6000
+Detected Text: layer-wise pretraining proceeds one layer at a time, training the k-th layer while
+Text Type: LINE
+Confidence Level: 99.79291
+
+Timestamp: 6000
+Detected Text: keeping the previous ones fixed. In particular, the lower layers (which are trained
+Text Type: LINE
+Confidence Level: 99.96037
+
+Timestamp: 6000
+Detected Text: first) are not adapted after the upper layers are introduced. It is called unsuper-
+Text Type: LINE
+Confidence Level: 99.011284
+
+Timestamp: 6000
+Detected Text: deeplearningbook.org/contents/rep
+Text Type: WORD
+Confidence Level: 97.80194
+
+Timestamp: 6000
+Detected Text: +
+Text Type: WORD
+Confidence Level: 97.60745
+
+Timestamp: 6000
+Detected Text: 120%
+Text Type: WORD
+Confidence Level: 99.328
+
+Timestamp: 6000
+Detected Text: +
+Text Type: WORD
+Confidence Level: 95.6716
+
+Timestamp: 6000
+Detected Text: Greedy
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: layer-wise
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: pretraining
+Text Type: WORD
+Confidence Level: 99.90317
+
+Timestamp: 6000
+Detected Text: is
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: called
+Text Type: WORD
+Confidence Level: 99.9858
+
+Timestamp: 6000
+Detected Text: greedy
+Text Type: WORD
+Confidence Level: 99.89481
+
+Timestamp: 6000
+Detected Text: because
+Text Type: WORD
+Confidence Level: 99.9008
+
+Timestamp: 6000
+Detected Text: it
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: is
+Text Type: WORD
+Confidence Level: 99.95017
+
+Timestamp: 6000
+Detected Text: a
+Text Type: WORD
+Confidence Level: 98.65174
+
+Timestamp: 6000
+Detected Text: greedy
+Text Type: WORD
+Confidence Level: 99.86149
+
+Timestamp: 6000
+Detected Text: algo-
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: 526
+Text Type: WORD
+Confidence Level: 99.71663
+
+Timestamp: 6000
+Detected Text: CHAPTER
+Text Type: WORD
+Confidence Level: 99.31407
+
+Timestamp: 6000
+Detected Text: 15.
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: REPRESENTATION
+Text Type: WORD
+Confidence Level: 99.28528
+
+Timestamp: 6000
+Detected Text: LEARNING
+Text Type: WORD
+Confidence Level: 99.04459
+
+Timestamp: 6000
+Detected Text: rithm,
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: meaning
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: that
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: it
+Text Type: WORD
+Confidence Level: 99.91633
+
+Timestamp: 6000
+Detected Text: optimizes
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: each
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: piece
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: of
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: the
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: solution
+Text Type: WORD
+Confidence Level: 99.866486
+
+Timestamp: 6000
+Detected Text: independently,
+Text Type: WORD
+Confidence Level: 99.93795
+
+Timestamp: 6000
+Detected Text: one
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: piece
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: at
+Text Type: WORD
+Confidence Level: 99.82636
+
+Timestamp: 6000
+Detected Text: a
+Text Type: WORD
+Confidence Level: 98.696
+
+Timestamp: 6000
+Detected Text: time,
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: rather
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: than
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: jointly
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: optimizing
+Text Type: WORD
+Confidence Level: 99.91754
+
+Timestamp: 6000
+Detected Text: all
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: pieces.
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: It
+Text Type: WORD
+Confidence Level: 99.5736
+
+Timestamp: 6000
+Detected Text: is
+Text Type: WORD
+Confidence Level: 99.85248
+
+Timestamp: 6000
+Detected Text: called
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: layer-wise
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: because
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: these
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: independent
+Text Type: WORD
+Confidence Level: 99.83261
+
+Timestamp: 6000
+Detected Text: pieces
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: are
+Text Type: WORD
+Confidence Level: 99.62195
+
+Timestamp: 6000
+Detected Text: the
+Text Type: WORD
+Confidence Level: 99.84602
+
+Timestamp: 6000
+Detected Text: layers
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: of
+Text Type: WORD
+Confidence Level: 99.95262
+
+Timestamp: 6000
+Detected Text: the
+Text Type: WORD
+Confidence Level: 99.9625
+
+Timestamp: 6000
+Detected Text: network.
+Text Type: WORD
+Confidence Level: 97.4189
+
+Timestamp: 6000
+Detected Text: Specifically,
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: greedy
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: layer-wise
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: pretraining
+Text Type: WORD
+Confidence Level: 99.85761
+
+Timestamp: 6000
+Detected Text: proceeds
+Text Type: WORD
+Confidence Level: 99.94286
+
+Timestamp: 6000
+Detected Text: one
+Text Type: WORD
+Confidence Level: 99.45216
+
+Timestamp: 6000
+Detected Text: layer
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: at
+Text Type: WORD
+Confidence Level: 99.6986
+
+Timestamp: 6000
+Detected Text: a
+Text Type: WORD
+Confidence Level: 98.4677
+
+Timestamp: 6000
+Detected Text: time,
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: training
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: the
+Text Type: WORD
+Confidence Level: 99.88879
+
+Timestamp: 6000
+Detected Text: k-th
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: layer
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: while
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: keeping
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: the
+Text Type: WORD
+Confidence Level: 99.89222
+
+Timestamp: 6000
+Detected Text: previous
+Text Type: WORD
+Confidence Level: 99.96666
+
+Timestamp: 6000
+Detected Text: ones
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: fixed.
+Text Type: WORD
+Confidence Level: 99.97503
+
+Timestamp: 6000
+Detected Text: In
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: particular,
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: the
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: lower
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: layers
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: (which
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: are
+Text Type: WORD
+Confidence Level: 99.650856
+
+Timestamp: 6000
+Detected Text: trained
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: first)
+Text Type: WORD
+Confidence Level: 87.56485
+
+Timestamp: 6000
+Detected Text: are
+Text Type: WORD
+Confidence Level: 99.843025
+
+Timestamp: 6000
+Detected Text: not
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: adapted
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: after
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: the
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: upper
+Text Type: WORD
+Confidence Level: 99.77459
+
+Timestamp: 6000
+Detected Text: layers
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: are
+Text Type: WORD
+Confidence Level: 99.82653
+
+Timestamp: 6000
+Detected Text: introduced.
+Text Type: WORD
+Confidence Level: 99.60215
+
+Timestamp: 6000
+Detected Text: It
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: is
+Text Type: WORD
+Confidence Level: 99.75337
+
+Timestamp: 6000
+Detected Text: called
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 6000
+Detected Text: unsuper-
+Text Type: WORD
+Confidence Level: 99.79345
+
+Timestamp: 7000
+Detected Text: deeplearningbook.org/contents/rep
+Text Type: LINE
+Confidence Level: 97.56989
+
+Timestamp: 7000
+Detected Text: +
+Text Type: LINE
+Confidence Level: 97.71485
+
+Timestamp: 7000
+Detected Text: 120%
+Text Type: LINE
+Confidence Level: 99.33326
+
+Timestamp: 7000
+Detected Text: +
+Text Type: LINE
+Confidence Level: 93.06171
+
+Timestamp: 7000
+Detected Text: CHAPTER 15. REPRESENTATION LEARNING
+Text Type: LINE
+Confidence Level: 99.509026
+
+Timestamp: 7000
+Detected Text: rithm, meaning that it optimizes each piece of the solution independently, one
+Text Type: LINE
+Confidence Level: 99.93319
+
+Timestamp: 7000
+Detected Text: piece at a time, rather than jointly optimizing all pieces. It is called layer-wise
+Text Type: LINE
+Confidence Level: 99.87707
+
+Timestamp: 7000
+Detected Text: because these independent pieces are the layers of the network. Specifically, greedy
+Text Type: LINE
+Confidence Level: 99.94167
+
+Timestamp: 7000
+Detected Text: layer-wise pretraining proceeds one layer at a time, training the k-th layer while
+Text Type: LINE
+Confidence Level: 99.841965
+
+Timestamp: 7000
+Detected Text: keeping the previous ones fixed. In particular, the lower layers (which are trained
+Text Type: LINE
+Confidence Level: 99.91004
+
+Timestamp: 7000
+Detected Text: first) are not adapted after the upper layers are introduced. It is called unsuper-
+Text Type: LINE
+Confidence Level: 99.70953
+
+Timestamp: 7000
+Detected Text: vised because each layer is trained with an unsupervised representation learning
+Text Type: LINE
+Confidence Level: 99.691
+
+Timestamp: 7000
+Detected Text: algorithm. However, it
+Text Type: LINE
+Confidence Level: 99.21178
+
+Timestamp: 7000
+Detected Text: deeplearningbook.org/contents/rep
+Text Type: WORD
+Confidence Level: 97.56989
+
+Timestamp: 7000
+Detected Text: +
+Text Type: WORD
+Confidence Level: 97.71485
+
+Timestamp: 7000
+Detected Text: 120%
+Text Type: WORD
+Confidence Level: 99.33326
+
+Timestamp: 7000
+Detected Text: +
+Text Type: WORD
+Confidence Level: 93.06171
+
+Timestamp: 7000
+Detected Text: CHAPTER
+Text Type: WORD
+Confidence Level: 99.600815
+
+Timestamp: 7000
+Detected Text: 15.
+Text Type: WORD
+Confidence Level: 99.988716
+
+Timestamp: 7000
+Detected Text: REPRESENTATION
+Text Type: WORD
+Confidence Level: 98.94822
+
+Timestamp: 7000
+Detected Text: LEARNING
+Text Type: WORD
+Confidence Level: 99.49835
+
+Timestamp: 7000
+Detected Text: rithm,
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: meaning
+Text Type: WORD
+Confidence Level: 99.93228
+
+Timestamp: 7000
+Detected Text: that
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: it
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: optimizes
+Text Type: WORD
+Confidence Level: 99.62509
+
+Timestamp: 7000
+Detected Text: each
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: piece
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: of
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: the
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: solution
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: independently,
+Text Type: WORD
+Confidence Level: 99.79934
+
+Timestamp: 7000
+Detected Text: one
+Text Type: WORD
+Confidence Level: 99.84157
+
+Timestamp: 7000
+Detected Text: piece
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: at
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: a
+Text Type: WORD
+Confidence Level: 98.62357
+
+Timestamp: 7000
+Detected Text: time,
+Text Type: WORD
+Confidence Level: 99.92971
+
+Timestamp: 7000
+Detected Text: rather
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: than
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: jointly
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: optimizing
+Text Type: WORD
+Confidence Level: 99.79061
+
+Timestamp: 7000
+Detected Text: all
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: pieces.
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: It
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: is
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: called
+Text Type: WORD
+Confidence Level: 99.93513
+
+Timestamp: 7000
+Detected Text: layer-wise
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: because
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: these
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: independent
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: pieces
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: are
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: the
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: layers
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: of
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: the
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: network.
+Text Type: WORD
+Confidence Level: 99.30015
+
+Timestamp: 7000
+Detected Text: Specifically,
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: greedy
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: layer-wise
+Text Type: WORD
+Confidence Level: 99.95213
+
+Timestamp: 7000
+Detected Text: pretraining
+Text Type: WORD
+Confidence Level: 99.69067
+
+Timestamp: 7000
+Detected Text: proceeds
+Text Type: WORD
+Confidence Level: 99.84308
+
+Timestamp: 7000
+Detected Text: one
+Text Type: WORD
+Confidence Level: 99.98866
+
+Timestamp: 7000
+Detected Text: layer
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: at
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: a
+Text Type: WORD
+Confidence Level: 98.59649
+
+Timestamp: 7000
+Detected Text: time,
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: training
+Text Type: WORD
+Confidence Level: 99.87451
+
+Timestamp: 7000
+Detected Text: the
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: k-th
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: layer
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: while
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: keeping
+Text Type: WORD
+Confidence Level: 99.954475
+
+Timestamp: 7000
+Detected Text: the
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: previous
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: ones
+Text Type: WORD
+Confidence Level: 99.87528
+
+Timestamp: 7000
+Detected Text: fixed.
+Text Type: WORD
+Confidence Level: 99.53377
+
+Timestamp: 7000
+Detected Text: In
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: particular,
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: the
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: lower
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: layers
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: (which
+Text Type: WORD
+Confidence Level: 99.89073
+
+Timestamp: 7000
+Detected Text: are
+Text Type: WORD
+Confidence Level: 99.6877
+
+Timestamp: 7000
+Detected Text: trained
+Text Type: WORD
+Confidence Level: 99.888664
+
+Timestamp: 7000
+Detected Text: first)
+Text Type: WORD
+Confidence Level: 97.677475
+
+Timestamp: 7000
+Detected Text: are
+Text Type: WORD
+Confidence Level: 99.6626
+
+Timestamp: 7000
+Detected Text: not
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: adapted
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: after
+Text Type: WORD
+Confidence Level: 99.95654
+
+Timestamp: 7000
+Detected Text: the
+Text Type: WORD
+Confidence Level: 99.86784
+
+Timestamp: 7000
+Detected Text: upper
+Text Type: WORD
+Confidence Level: 99.66953
+
+Timestamp: 7000
+Detected Text: layers
+Text Type: WORD
+Confidence Level: 99.93625
+
+Timestamp: 7000
+Detected Text: are
+Text Type: WORD
+Confidence Level: 99.8299
+
+Timestamp: 7000
+Detected Text: introduced.
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: It
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: is
+Text Type: WORD
+Confidence Level: 99.69878
+
+Timestamp: 7000
+Detected Text: called
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: unsuper-
+Text Type: WORD
+Confidence Level: 99.634514
+
+Timestamp: 7000
+Detected Text: vised
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: because
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: each
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: layer
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: is
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: trained
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: with
+Text Type: WORD
+Confidence Level: 99.801636
+
+Timestamp: 7000
+Detected Text: an
+Text Type: WORD
+Confidence Level: 99.20798
+
+Timestamp: 7000
+Detected Text: unsupervised
+Text Type: WORD
+Confidence Level: 99.720604
+
+Timestamp: 7000
+Detected Text: representation
+Text Type: WORD
+Confidence Level: 99.15636
+
+Timestamp: 7000
+Detected Text: learning
+Text Type: WORD
+Confidence Level: 98.71446
+
+Timestamp: 7000
+Detected Text: algorithm.
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 7000
+Detected Text: However,
+Text Type: WORD
+Confidence Level: 97.635345
+
+Timestamp: 7000
+Detected Text: it
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: deeplearningbook.org/contents/rep
+Text Type: LINE
+Confidence Level: 97.77871
+
+Timestamp: 8000
+Detected Text: +
+Text Type: LINE
+Confidence Level: 97.63125
+
+Timestamp: 8000
+Detected Text: https://www.deeplearningbook.org/contents/representation.html
+Text Type: LINE
+Confidence Level: 81.24083
+
+Timestamp: 8000
+Detected Text: 120%
+Text Type: LINE
+Confidence Level: 99.230415
+
+Timestamp: 8000
+Detected Text: +
+Text Type: LINE
+Confidence Level: 93.92879
+
+Timestamp: 8000
+Detected Text: CHAPTER 15. LEARNING
+Text Type: LINE
+Confidence Level: 99.14018
+
+Timestamp: 8000
+Detected Text: rithm, meaning that it optimizes each piece of the solution independently, one
+Text Type: LINE
+Confidence Level: 99.903
+
+Timestamp: 8000
+Detected Text: piece at a time, rather than jointly optimizing all pieces. It is called layer-wise
+Text Type: LINE
+Confidence Level: 99.80878
+
+Timestamp: 8000
+Detected Text: because these independent pieces are the layers of the network. Specifically, greedy
+Text Type: LINE
+Confidence Level: 99.83099
+
+Timestamp: 8000
+Detected Text: layer-wise pretraining proceeds one layer at a time, training the k-th layer while
+Text Type: LINE
+Confidence Level: 99.79601
+
+Timestamp: 8000
+Detected Text: keeping the previous ones fixed. In particular, the lower layers (which are trained
+Text Type: LINE
+Confidence Level: 99.92416
+
+Timestamp: 8000
+Detected Text: first) are not adapted after the upper layers are introduced. It is called unsuper-
+Text Type: LINE
+Confidence Level: 99.78944
+
+Timestamp: 8000
+Detected Text: vised because each layer is trained with an unsupervised representation learning
+Text Type: LINE
+Confidence Level: 99.84441
+
+Timestamp: 8000
+Detected Text: algorithm. However, it
+Text Type: LINE
+Confidence Level: 99.24461
+
+Timestamp: 8000
+Detected Text: deeplearningbook.org/contents/rep
+Text Type: WORD
+Confidence Level: 97.77871
+
+Timestamp: 8000
+Detected Text: +
+Text Type: WORD
+Confidence Level: 97.63125
+
+Timestamp: 8000
+Detected Text: https://www.deeplearningbook.org/contents/representation.html
+Text Type: WORD
+Confidence Level: 81.24083
+
+Timestamp: 8000
+Detected Text: 120%
+Text Type: WORD
+Confidence Level: 99.230415
+
+Timestamp: 8000
+Detected Text: +
+Text Type: WORD
+Confidence Level: 93.92879
+
+Timestamp: 8000
+Detected Text: CHAPTER
+Text Type: WORD
+Confidence Level: 98.99351
+
+Timestamp: 8000
+Detected Text: 15.
+Text Type: WORD
+Confidence Level: 99.62738
+
+Timestamp: 8000
+Detected Text: LEARNING
+Text Type: WORD
+Confidence Level: 98.79967
+
+Timestamp: 8000
+Detected Text: rithm,
+Text Type: WORD
+Confidence Level: 99.89607
+
+Timestamp: 8000
+Detected Text: meaning
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: that
+Text Type: WORD
+Confidence Level: 99.92461
+
+Timestamp: 8000
+Detected Text: it
+Text Type: WORD
+Confidence Level: 99.6252
+
+Timestamp: 8000
+Detected Text: optimizes
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: each
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: piece
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: of
+Text Type: WORD
+Confidence Level: 99.938156
+
+Timestamp: 8000
+Detected Text: the
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: solution
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: independently,
+Text Type: WORD
+Confidence Level: 99.9319
+
+Timestamp: 8000
+Detected Text: one
+Text Type: WORD
+Confidence Level: 99.5201
+
+Timestamp: 8000
+Detected Text: piece
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: at
+Text Type: WORD
+Confidence Level: 99.85027
+
+Timestamp: 8000
+Detected Text: a
+Text Type: WORD
+Confidence Level: 98.54926
+
+Timestamp: 8000
+Detected Text: time,
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: rather
+Text Type: WORD
+Confidence Level: 99.80312
+
+Timestamp: 8000
+Detected Text: than
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: jointly
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: optimizing
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: all
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: pieces.
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: It
+Text Type: WORD
+Confidence Level: 99.63055
+
+Timestamp: 8000
+Detected Text: is
+Text Type: WORD
+Confidence Level: 99.87478
+
+Timestamp: 8000
+Detected Text: called
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: layer-wise
+Text Type: WORD
+Confidence Level: 99.61483
+
+Timestamp: 8000
+Detected Text: because
+Text Type: WORD
+Confidence Level: 99.79047
+
+Timestamp: 8000
+Detected Text: these
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: independent
+Text Type: WORD
+Confidence Level: 99.82212
+
+Timestamp: 8000
+Detected Text: pieces
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: are
+Text Type: WORD
+Confidence Level: 99.991936
+
+Timestamp: 8000
+Detected Text: the
+Text Type: WORD
+Confidence Level: 99.959175
+
+Timestamp: 8000
+Detected Text: layers
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: of
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: the
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: network.
+Text Type: WORD
+Confidence Level: 98.64661
+
+Timestamp: 8000
+Detected Text: Specifically,
+Text Type: WORD
+Confidence Level: 99.76163
+
+Timestamp: 8000
+Detected Text: greedy
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: layer-wise
+Text Type: WORD
+Confidence Level: 99.83388
+
+Timestamp: 8000
+Detected Text: pretraining
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: proceeds
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: one
+Text Type: WORD
+Confidence Level: 99.49571
+
+Timestamp: 8000
+Detected Text: layer
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: at
+Text Type: WORD
+Confidence Level: 99.68826
+
+Timestamp: 8000
+Detected Text: a
+Text Type: WORD
+Confidence Level: 98.40046
+
+Timestamp: 8000
+Detected Text: time,
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: training
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: the
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: k-th
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: layer
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: while
+Text Type: WORD
+Confidence Level: 99.92978
+
+Timestamp: 8000
+Detected Text: keeping
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: the
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: previous
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: ones
+Text Type: WORD
+Confidence Level: 99.40855
+
+Timestamp: 8000
+Detected Text: fixed.
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: In
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: particular,
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: the
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: lower
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: layers
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: (which
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: are
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: trained
+Text Type: WORD
+Confidence Level: 99.60543
+
+Timestamp: 8000
+Detected Text: first)
+Text Type: WORD
+Confidence Level: 97.39656
+
+Timestamp: 8000
+Detected Text: are
+Text Type: WORD
+Confidence Level: 99.958275
+
+Timestamp: 8000
+Detected Text: not
+Text Type: WORD
+Confidence Level: 99.983
+
+Timestamp: 8000
+Detected Text: adapted
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: after
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: the
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: upper
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: layers
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: are
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: introduced.
+Text Type: WORD
+Confidence Level: 99.874054
+
+Timestamp: 8000
+Detected Text: It
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: is
+Text Type: WORD
+Confidence Level: 99.95279
+
+Timestamp: 8000
+Detected Text: called
+Text Type: WORD
+Confidence Level: 99.88748
+
+Timestamp: 8000
+Detected Text: unsuper-
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: vised
+Text Type: WORD
+Confidence Level: 99.9022
+
+Timestamp: 8000
+Detected Text: because
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: each
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: layer
+Text Type: WORD
+Confidence Level: 100
+
+Timestamp: 8000
+Detected Text: is
+Text Type: WORD
+Confidence Level: 99.99078
+
+Timestamp: 8000
+Detected Text: trained
+Text Type: WORD
+Confidence Level: 99.89396
+

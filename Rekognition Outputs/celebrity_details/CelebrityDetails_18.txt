@@ -1,0 +1,5 @@
+Celebrity Name: Revathi
+Celebrity Amazon ID: 3oO1oQ
+Celebrity Gender: Female
+Celebrity Bounding Box Details: Width: 0.31,Height: 0.72,Left: 0.33,Top: 0.08
+Is Celebrity Smiling?: true

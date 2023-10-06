@@ -1,0 +1,5 @@
+Celebrity Name: Johnny Depp(Captain Jack Sparrow)
+Celebrity Amazon ID: tA4jd
+Celebrity Gender: Male
+Celebrity Bounding Box Details: Width: 0.28,Height: 0.61,Left: 0.33,Top: 0.16
+Is Celebrity Smiling?: true

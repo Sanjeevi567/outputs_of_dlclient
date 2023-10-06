@@ -1,0 +1,5 @@
+Celebrity Name: Chadwick Boseman(Black Panther)
+Celebrity Amazon ID: 3UV5mY6
+Celebrity Gender: Male
+Celebrity Bounding Box Details: Width: 0.20,Height: 0.48,Left: 0.42,Top: 0.12
+Is Celebrity Smiling?: false

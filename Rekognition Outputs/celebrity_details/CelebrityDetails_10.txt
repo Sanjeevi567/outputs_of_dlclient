@@ -1,0 +1,5 @@
+Celebrity Name: Rajinikanth(Super Star)
+Celebrity Amazon ID: 3Tt1Dm1S
+Celebrity Gender: Male
+Celebrity Bounding Box Details: Width: 0.60,Height: 0.61,Left: 0.16,Top: 0.08
+Is Celebrity Smiling?: false

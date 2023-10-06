@@ -1,0 +1,5 @@
+Celebrity Name: Chris Evans(Captain America)
+Celebrity Amazon ID: 10g2ZL
+Celebrity Gender: Male
+Celebrity Bounding Box Details: Width: 0.34,Height: 0.40,Left: 0.35,Top: 0.15
+Is Celebrity Smiling?: false

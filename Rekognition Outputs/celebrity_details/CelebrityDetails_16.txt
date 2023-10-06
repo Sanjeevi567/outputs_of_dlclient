@@ -1,0 +1,5 @@
+Celebrity Name: Rupert Grint(Ron Weasley)
+Celebrity Amazon ID: 1vl9kc0W
+Celebrity Gender: Male
+Celebrity Bounding Box Details: Width: 0.51,Height: 0.43,Left: 0.24,Top: 0.15
+Is Celebrity Smiling?: false

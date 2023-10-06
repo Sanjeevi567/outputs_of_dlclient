@@ -1,0 +1,5 @@
+Celebrity Name: Jasmin Bhasin
+Celebrity Amazon ID: 1Af2oM
+Celebrity Gender: Female
+Celebrity Bounding Box Details: Width: 0.32,Height: 0.49,Left: 0.28,Top: 0.22
+Is Celebrity Smiling?: false

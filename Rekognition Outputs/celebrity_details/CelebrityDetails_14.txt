@@ -1,0 +1,5 @@
+Celebrity Name: Kamal Haasan(Ulaga Nayagan)
+Celebrity Amazon ID: 2be8pM2K
+Celebrity Gender: Male
+Celebrity Bounding Box Details: Width: 0.30,Height: 0.62,Left: 0.38,Top: 0.12
+Is Celebrity Smiling?: true

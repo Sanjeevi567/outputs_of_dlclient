@@ -1,0 +1,5 @@
+Celebrity Name: Emma Watson(Hermione Granger)
+Celebrity Amazon ID: 41MQ56
+Celebrity Gender: Female
+Celebrity Bounding Box Details: Width: 0.33,Height: 0.30,Left: 0.31,Top: 0.15
+Is Celebrity Smiling?: false

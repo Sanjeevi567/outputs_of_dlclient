@@ -1,0 +1,5 @@
+Celebrity Name: Tom Holland(Little Spider Man)
+Celebrity Amazon ID: ua51E
+Celebrity Gender: Male
+Celebrity Bounding Box Details: Width: 0.29,Height: 0.56,Left: 0.34,Top: 0.25
+Is Celebrity Smiling?: false

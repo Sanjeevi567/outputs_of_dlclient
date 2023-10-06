@@ -1,0 +1,5 @@
+Celebrity Name: Aishwarya Rai
+Celebrity Amazon ID: 2Pw8MC0K
+Celebrity Gender: Female
+Celebrity Bounding Box Details: Width: 0.12,Height: 0.34,Left: 0.45,Top: 0.12
+Is Celebrity Smiling?: false

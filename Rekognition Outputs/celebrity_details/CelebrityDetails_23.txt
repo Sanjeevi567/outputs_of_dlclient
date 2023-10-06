@@ -1,0 +1,5 @@
+Celebrity Name: Suriya
+Celebrity Amazon ID: 3kA7eG
+Celebrity Gender: Male
+Celebrity Bounding Box Details: Width: 0.28,Height: 0.33,Left: 0.37,Top: 0.18
+Is Celebrity Smiling?: false

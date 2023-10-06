@@ -1,0 +1,5 @@
+Celebrity Name: Mark Alan(Hulk)
+Celebrity Amazon ID: 4e228c
+Celebrity Gender: Male
+Celebrity Bounding Box Details: Width: 0.35,Height: 0.33,Left: 0.32,Top: 0.17
+Is Celebrity Smiling?: true

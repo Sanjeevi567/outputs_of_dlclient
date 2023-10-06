@@ -1,0 +1,5 @@
+Celebrity Name: Chris Hemsworth(Odin Son Thor)
+Celebrity Amazon ID: 3St5U8D
+Celebrity Gender: Male
+Celebrity Bounding Box Details: Width: 0.25,Height: 0.48,Left: 0.38,Top: 0.12
+Is Celebrity Smiling?: false

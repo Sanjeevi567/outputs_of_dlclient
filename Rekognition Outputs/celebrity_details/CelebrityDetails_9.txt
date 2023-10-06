@@ -1,0 +1,5 @@
+Celebrity Name: Daniel Radcliffe(Harry Potter)
+Celebrity Amazon ID: 5nG2vK
+Celebrity Gender: Male
+Celebrity Bounding Box Details: Width: 0.37,Height: 0.41,Left: 0.30,Top: 0.22
+Is Celebrity Smiling?: true

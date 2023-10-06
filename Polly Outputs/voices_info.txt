@@ -1,0 +1,651 @@
+Gender:           Female
+VoiceId:          Isabelle
+LanguageCode:     fr-BE
+Language Name:    Belgian French
+Voice Name:       Isabelle
+Supported Engine: neural
+
+Gender:           Male
+VoiceId:          Kevin
+LanguageCode:     en-US
+Language Name:    US English
+Voice Name:       Kevin
+Supported Engine: neural
+
+Gender:           Female
+VoiceId:          Filiz
+LanguageCode:     tr-TR
+Language Name:    Turkish
+Voice Name:       Filiz
+Supported Engine: standard
+
+Gender:           Female
+VoiceId:          Elin
+LanguageCode:     sv-SE
+Language Name:    Swedish
+Voice Name:       Elin
+Supported Engine: neural
+
+Gender:           Female
+VoiceId:          Astrid
+LanguageCode:     sv-SE
+Language Name:    Swedish
+Voice Name:       Astrid
+Supported Engine: standard
+
+Gender:           Female
+VoiceId:          Tatyana
+LanguageCode:     ru-RU
+Language Name:    Russian
+Voice Name:       Tatyana
+Supported Engine: standard
+
+Gender:           Male
+VoiceId:          Maxim
+LanguageCode:     ru-RU
+Language Name:    Russian
+Voice Name:       Maxim
+Supported Engine: standard
+
+Gender:           Female
+VoiceId:          Carmen
+LanguageCode:     ro-RO
+Language Name:    Romanian
+Voice Name:       Carmen
+Supported Engine: standard
+
+Gender:           Female
+VoiceId:          Ines
+LanguageCode:     pt-PT
+Language Name:    Portuguese
+Voice Name:       Inês
+Supported Engine: neuralstandard
+
+Gender:           Male
+VoiceId:          Cristiano
+LanguageCode:     pt-PT
+Language Name:    Portuguese
+Voice Name:       Cristiano
+Supported Engine: standard
+
+Gender:           Female
+VoiceId:          Vitoria
+LanguageCode:     pt-BR
+Language Name:    Brazilian Portuguese
+Voice Name:       Vitória
+Supported Engine: neuralstandard
+
+Gender:           Male
+VoiceId:          Ricardo
+LanguageCode:     pt-BR
+Language Name:    Brazilian Portuguese
+Voice Name:       Ricardo
+Supported Engine: standard
+
+Gender:           Female
+VoiceId:          Camila
+LanguageCode:     pt-BR
+Language Name:    Brazilian Portuguese
+Voice Name:       Camila
+Supported Engine: neuralstandard
+
+Gender:           Female
+VoiceId:          Maja
+LanguageCode:     pl-PL
+Language Name:    Polish
+Voice Name:       Maja
+Supported Engine: standard
+
+Gender:           Male
+VoiceId:          Jan
+LanguageCode:     pl-PL
+Language Name:    Polish
+Voice Name:       Jan
+Supported Engine: standard
+
+Gender:           Male
+VoiceId:          Jacek
+LanguageCode:     pl-PL
+Language Name:    Polish
+Voice Name:       Jacek
+Supported Engine: standard
+
+Gender:           Female
+VoiceId:          Ewa
+LanguageCode:     pl-PL
+Language Name:    Polish
+Voice Name:       Ewa
+Supported Engine: standard
+
+Gender:           Female
+VoiceId:          Ola
+LanguageCode:     pl-PL
+Language Name:    Polish
+Voice Name:       Ola
+Supported Engine: neural
+
+Gender:           Female
+VoiceId:          Lisa
+LanguageCode:     nl-BE
+Language Name:    Belgian Dutch
+Voice Name:       Lisa
+Supported Engine: neural
+
+Gender:           Male
+VoiceId:          Ruben
+LanguageCode:     nl-NL
+Language Name:    Dutch
+Voice Name:       Ruben
+Supported Engine: standard
+
+Gender:           Female
+VoiceId:          Lotte
+LanguageCode:     nl-NL
+Language Name:    Dutch
+Voice Name:       Lotte
+Supported Engine: standard
+
+Gender:           Female
+VoiceId:          Laura
+LanguageCode:     nl-NL
+Language Name:    Dutch
+Voice Name:       Laura
+Supported Engine: neural
+
+Gender:           Female
+VoiceId:          Ida
+LanguageCode:     nb-NO
+Language Name:    Norwegian
+Voice Name:       Ida
+Supported Engine: neural
+
+Gender:           Female
+VoiceId:          Liv
+LanguageCode:     nb-NO
+Language Name:    Norwegian
+Voice Name:       Liv
+Supported Engine: standard
+
+Gender:           Female
+VoiceId:          Seoyeon
+LanguageCode:     ko-KR
+Language Name:    Korean
+Voice Name:       Seoyeon
+Supported Engine: neuralstandard
+
+Gender:           Female
+VoiceId:          Kazuha
+LanguageCode:     ja-JP
+Language Name:    Japanese
+Voice Name:       Kazuha
+Supported Engine: neural
+
+Gender:           Female
+VoiceId:          Tomoko
+LanguageCode:     ja-JP
+Language Name:    Japanese
+Voice Name:       Tomoko
+Supported Engine: neural
+
+Gender:           Male
+VoiceId:          Takumi
+LanguageCode:     ja-JP
+Language Name:    Japanese
+Voice Name:       Takumi
+Supported Engine: neuralstandard
+
+Gender:           Female
+VoiceId:          Mizuki
+LanguageCode:     ja-JP
+Language Name:    Japanese
+Voice Name:       Mizuki
+Supported Engine: standard
+
+Gender:           Female
+VoiceId:          Bianca
+LanguageCode:     it-IT
+Language Name:    Italian
+Voice Name:       Bianca
+Supported Engine: neuralstandard
+
+Gender:           Male
+VoiceId:          Giorgio
+LanguageCode:     it-IT
+Language Name:    Italian
+Voice Name:       Giorgio
+Supported Engine: standard
+
+Gender:           Female
+VoiceId:          Carla
+LanguageCode:     it-IT
+Language Name:    Italian
+Voice Name:       Carla
+Supported Engine: standard
+
+Gender:           Male
+VoiceId:          Karl
+LanguageCode:     is-IS
+Language Name:    Icelandic
+Voice Name:       Karl
+Supported Engine: standard
+
+Gender:           Female
+VoiceId:          Dora
+LanguageCode:     is-IS
+Language Name:    Icelandic
+Voice Name:       Dóra
+Supported Engine: standard
+
+Gender:           Male
+VoiceId:          Mathieu
+LanguageCode:     fr-FR
+Language Name:    French
+Voice Name:       Mathieu
+Supported Engine: standard
+
+Gender:           Female
+VoiceId:          Lea
+LanguageCode:     fr-FR
+Language Name:    French
+Voice Name:       Léa
+Supported Engine: neuralstandard
+
+Gender:           Female
+VoiceId:          Celine
+LanguageCode:     fr-FR
+Language Name:    French
+Voice Name:       Céline
+Supported Engine: standard
+
+Gender:           Female
+VoiceId:          Chantal
+LanguageCode:     fr-CA
+Language Name:    Canadian French
+Voice Name:       Chantal
+Supported Engine: standard
+
+Gender:           Female
+VoiceId:          Gabrielle
+LanguageCode:     fr-CA
+Language Name:    Canadian French
+Voice Name:       Gabrielle
+Supported Engine: neural
+
+Gender:           Female
+VoiceId:          Penelope
+LanguageCode:     es-US
+Language Name:    US Spanish
+Voice Name:       Penélope
+Supported Engine: standard
+
+Gender:           Male
+VoiceId:          Miguel
+LanguageCode:     es-US
+Language Name:    US Spanish
+Voice Name:       Miguel
+Supported Engine: standard
+
+Gender:           Female
+VoiceId:          Lupe
+LanguageCode:     es-US
+Language Name:    US Spanish
+Voice Name:       Lupe
+Supported Engine: neuralstandard
+
+Gender:           Female
+VoiceId:          Mia
+LanguageCode:     es-MX
+Language Name:    Mexican Spanish
+Voice Name:       Mia
+Supported Engine: neuralstandard
+
+Gender:           Female
+VoiceId:          Lucia
+LanguageCode:     es-ES
+Language Name:    Castilian Spanish
+Voice Name:       Lucia
+Supported Engine: neuralstandard
+
+Gender:           Male
+VoiceId:          Enrique
+LanguageCode:     es-ES
+Language Name:    Castilian Spanish
+Voice Name:       Enrique
+Supported Engine: standard
+
+Gender:           Female
+VoiceId:          Conchita
+LanguageCode:     es-ES
+Language Name:    Castilian Spanish
+Voice Name:       Conchita
+Supported Engine: standard
+
+Gender:           Male
+VoiceId:          Geraint
+LanguageCode:     en-GB-WLS
+Language Name:    Welsh English
+Voice Name:       Geraint
+Supported Engine: standard
+
+Gender:           Female
+VoiceId:          Salli
+LanguageCode:     en-US
+Language Name:    US English
+Voice Name:       Salli
+Supported Engine: neuralstandard
+
+Gender:           Male
+VoiceId:          Matthew
+LanguageCode:     en-US
+Language Name:    US English
+Voice Name:       Matthew
+Supported Engine: neuralstandard
+
+Gender:           Female
+VoiceId:          Kimberly
+LanguageCode:     en-US
+Language Name:    US English
+Voice Name:       Kimberly
+Supported Engine: neuralstandard
+
+Gender:           Female
+VoiceId:          Kendra
+LanguageCode:     en-US
+Language Name:    US English
+Voice Name:       Kendra
+Supported Engine: neuralstandard
+
+Gender:           Male
+VoiceId:          Justin
+LanguageCode:     en-US
+Language Name:    US English
+Voice Name:       Justin
+Supported Engine: neuralstandard
+
+Gender:           Male
+VoiceId:          Joey
+LanguageCode:     en-US
+Language Name:    US English
+Voice Name:       Joey
+Supported Engine: neuralstandard
+
+Gender:           Female
+VoiceId:          Joanna
+LanguageCode:     en-US
+Language Name:    US English
+Voice Name:       Joanna
+Supported Engine: neuralstandard
+
+Gender:           Female
+VoiceId:          Ivy
+LanguageCode:     en-US
+Language Name:    US English
+Voice Name:       Ivy
+Supported Engine: neuralstandard
+
+Gender:           Female
+VoiceId:          Aria
+LanguageCode:     en-NZ
+Language Name:    New Zealand English
+Voice Name:       Aria
+Supported Engine: neural
+
+Gender:           Female
+VoiceId:          Ayanda
+LanguageCode:     en-ZA
+Language Name:    South African English
+Voice Name:       Ayanda
+Supported Engine: neural
+
+Gender:           Female
+VoiceId:          Raveena
+LanguageCode:     en-IN
+Language Name:    Indian English
+Voice Name:       Raveena
+Supported Engine: standard
+
+Gender:           Female
+VoiceId:          Aditi
+LanguageCode:     en-IN
+Language Name:    Indian English
+Voice Name:       Aditi
+Supported Engine: standard
+
+Gender:           Female
+VoiceId:          Emma
+LanguageCode:     en-GB
+Language Name:    British English
+Voice Name:       Emma
+Supported Engine: neuralstandard
+
+Gender:           Male
+VoiceId:          Brian
+LanguageCode:     en-GB
+Language Name:    British English
+Voice Name:       Brian
+Supported Engine: neuralstandard
+
+Gender:           Female
+VoiceId:          Amy
+LanguageCode:     en-GB
+Language Name:    British English
+Voice Name:       Amy
+Supported Engine: neuralstandard
+
+Gender:           Male
+VoiceId:          Russell
+LanguageCode:     en-AU
+Language Name:    Australian English
+Voice Name:       Russell
+Supported Engine: standard
+
+Gender:           Female
+VoiceId:          Nicole
+LanguageCode:     en-AU
+Language Name:    Australian English
+Voice Name:       Nicole
+Supported Engine: standard
+
+Gender:           Female
+VoiceId:          Olivia
+LanguageCode:     en-AU
+Language Name:    Australian English
+Voice Name:       Olivia
+Supported Engine: neural
+
+Gender:           Female
+VoiceId:          Vicki
+LanguageCode:     de-DE
+Language Name:    German
+Voice Name:       Vicki
+Supported Engine: neuralstandard
+
+Gender:           Female
+VoiceId:          Marlene
+LanguageCode:     de-DE
+Language Name:    German
+Voice Name:       Marlene
+Supported Engine: standard
+
+Gender:           Male
+VoiceId:          Hans
+LanguageCode:     de-DE
+Language Name:    German
+Voice Name:       Hans
+Supported Engine: standard
+
+Gender:           Female
+VoiceId:          Naja
+LanguageCode:     da-DK
+Language Name:    Danish
+Voice Name:       Naja
+Supported Engine: standard
+
+Gender:           Male
+VoiceId:          Mads
+LanguageCode:     da-DK
+Language Name:    Danish
+Voice Name:       Mads
+Supported Engine: standard
+
+Gender:           Female
+VoiceId:          Sofie
+LanguageCode:     da-DK
+Language Name:    Danish
+Voice Name:       Sofie
+Supported Engine: neural
+
+Gender:           Female
+VoiceId:          Gwyneth
+LanguageCode:     cy-GB
+Language Name:    Welsh
+Voice Name:       Gwyneth
+Supported Engine: standard
+
+Gender:           Female
+VoiceId:          Zhiyu
+LanguageCode:     cmn-CN
+Language Name:    Chinese Mandarin
+Voice Name:       Zhiyu
+Supported Engine: neuralstandard
+
+Gender:           Female
+VoiceId:          Zeina
+LanguageCode:     arb
+Language Name:    Arabic
+Voice Name:       Zeina
+Supported Engine: standard
+
+Gender:           Female
+VoiceId:          Hala
+LanguageCode:     ar-AE
+Language Name:    Gulf Arabic
+Voice Name:       Hala
+Supported Engine: neural
+
+Gender:           Female
+VoiceId:          Arlet
+LanguageCode:     ca-ES
+Language Name:    Catalan
+Voice Name:       Arlet
+Supported Engine: neural
+
+Gender:           Female
+VoiceId:          Hannah
+LanguageCode:     de-AT
+Language Name:    German
+Voice Name:       Hannah
+Supported Engine: neural
+
+Gender:           Female
+VoiceId:          Ruth
+LanguageCode:     en-US
+Language Name:    US English
+Voice Name:       Ruth
+Supported Engine: neural
+
+Gender:           Male
+VoiceId:          Stephen
+LanguageCode:     en-US
+Language Name:    US English
+Voice Name:       Stephen
+Supported Engine: neural
+
+Gender:           Female
+VoiceId:          Kajal
+LanguageCode:     en-IN
+Language Name:    Indian English
+Voice Name:       Kajal
+Supported Engine: neural
+
+Gender:           Female
+VoiceId:          Hiujin
+LanguageCode:     yue-CN
+Language Name:    Cantonese
+Voice Name:       Hiujin
+Supported Engine: neural
+
+Gender:           Female
+VoiceId:          Suvi
+LanguageCode:     fi-FI
+Language Name:    Finnish
+Voice Name:       Suvi
+Supported Engine: neural
+
+Gender:           Female
+VoiceId:          Niamh
+LanguageCode:     en-IE
+Language Name:    Irish English
+Voice Name:       Niamh
+Supported Engine: neural
+
+Gender:           Male
+VoiceId:          Arthur
+LanguageCode:     en-GB
+Language Name:    British English
+Voice Name:       Arthur
+Supported Engine: neural
+
+Gender:           Male
+VoiceId:          Daniel
+LanguageCode:     de-DE
+Language Name:    German
+Voice Name:       Daniel
+Supported Engine: neural
+
+Gender:           Male
+VoiceId:          Liam
+LanguageCode:     fr-CA
+Language Name:    Canadian French
+Voice Name:       Liam
+Supported Engine: neural
+
+Gender:           Male
+VoiceId:          Pedro
+LanguageCode:     es-US
+Language Name:    US Spanish
+Voice Name:       Pedro
+Supported Engine: neural
+
+Gender:           Male
+VoiceId:          Sergio
+LanguageCode:     es-ES
+Language Name:    Castilian Spanish
+Voice Name:       Sergio
+Supported Engine: neural
+
+Gender:           Male
+VoiceId:          Andres
+LanguageCode:     es-MX
+Language Name:    Mexican Spanish
+Voice Name:       Andrés
+Supported Engine: neural
+
+Gender:           Male
+VoiceId:          Remi
+LanguageCode:     fr-FR
+Language Name:    French
+Voice Name:       Rémi
+Supported Engine: neural
+
+Gender:           Male
+VoiceId:          Adriano
+LanguageCode:     it-IT
+Language Name:    Italian
+Voice Name:       Adriano
+Supported Engine: neural
+
+Gender:           Male
+VoiceId:          Thiago
+LanguageCode:     pt-BR
+Language Name:    Brazilian Portuguese
+Voice Name:       Thiago
+Supported Engine: neural
+
+Gender:           Male
+VoiceId:          Zayd
+LanguageCode:     ar-AE
+Language Name:    Gulf Arabic
+Voice Name:       Zayd
+Supported Engine: neural
+

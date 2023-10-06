@@ -1,0 +1,175 @@
+Details of image: image_ (10).jpg
+Gender: Male, with a confidence level of 94.5003
+Age Range: 22, with a confidence level of 30
+Beard: true, with a confidence level of 99.833725
+Smile: false, with a confidence level of 74.79112
+Bounding Box Details: Width: 0.29058206, Height: 0.3300372, Left: 0.29320997, Top: 0.124395445
+
+Details of image: image_ (11).jpg
+Gender: Male, with a confidence level of 99.975365
+Age Range: 43, with a confidence level of 51
+Beard: true, with a confidence level of 97.943596
+Smile: true, with a confidence level of 96.126625
+Bounding Box Details: Width: 0.45110318, Height: 0.4345586, Left: 0.2738551, Top: 0.12093268
+
+Details of image: image_ (12).jpg
+Gender: Male, with a confidence level of 99.99873
+Age Range: 50, with a confidence level of 58
+Beard: true, with a confidence level of 90.90988
+Smile: true, with a confidence level of 95.54224
+Bounding Box Details: Width: 0.47933635, Height: 0.47478333, Left: 0.25742507, Top: 0.20090538
+
+Details of image: image_ (13).jpg
+Gender: Female, with a confidence level of 99.98713
+Age Range: 26, with a confidence level of 36
+Beard: false, with a confidence level of 96.284195
+Smile: true, with a confidence level of 96.43256
+Bounding Box Details: Width: 0.2881742, Height: 0.4006319, Left: 0.3216689, Top: 0.15986013
+
+Details of image: image_ (14).jpg
+Gender: Male, with a confidence level of 99.99859
+Age Range: 38, with a confidence level of 46
+Beard: true, with a confidence level of 98.55093
+Smile: false, with a confidence level of 93.29953
+Bounding Box Details: Width: 0.3151231, Height: 0.35311323, Left: 0.3421012, Top: 0.1476117
+
+Details of image: image_ (15).jpg
+Gender: Male, with a confidence level of 99.99696
+Age Range: 28, with a confidence level of 38
+Beard: true, with a confidence level of 99.96633
+Smile: false, with a confidence level of 95.06072
+Bounding Box Details: Width: 0.20448369, Height: 0.48777962, Left: 0.42326945, Top: 0.11378617
+
+Details of image: image_ (16).jpg
+Gender: Male, with a confidence level of 99.983444
+Age Range: 30, with a confidence level of 40
+Beard: true, with a confidence level of 99.88884
+Smile: false, with a confidence level of 94.34833
+Bounding Box Details: Width: 0.35905203, Height: 0.41039777, Left: 0.34831315, Top: 0.14863649
+
+Details of image: image_ (17).jpg
+Gender: Female, with a confidence level of 99.53473
+Age Range: 24, with a confidence level of 34
+Beard: false, with a confidence level of 96.276436
+Smile: true, with a confidence level of 82.17607
+Bounding Box Details: Width: 0.27327946, Height: 0.3534255, Left: 0.36292458, Top: 0.13737784
+
+Details of image: image_ (18).jpg
+Gender: Female, with a confidence level of 99.99738
+Age Range: 19, with a confidence level of 27
+Beard: false, with a confidence level of 96.107925
+Smile: false, with a confidence level of 94.211494
+Bounding Box Details: Width: 0.34104055, Height: 0.30775407, Left: 0.3092148, Top: 0.15314482
+
+Details of image: image_ (19).jpg
+Gender: Male, with a confidence level of 99.990776
+Age Range: 21, with a confidence level of 29
+Beard: true, with a confidence level of 99.90928
+Smile: false, with a confidence level of 53.084618
+Bounding Box Details: Width: 0.3741568, Height: 0.43740892, Left: 0.29661587, Top: 0.22447322
+
+Details of image: image_ (2).jpg
+Gender: Male, with a confidence level of 99.99547
+Age Range: 56, with a confidence level of 64
+Beard: true, with a confidence level of 77.72913
+Smile: true, with a confidence level of 91.66694
+Bounding Box Details: Width: 0.58230853, Height: 0.57236344, Left: 0.18608896, Top: 0.11963308
+
+Details of image: image_ (20).jpg
+Gender: Male, with a confidence level of 99.99772
+Age Range: 49, with a confidence level of 57
+Beard: true, with a confidence level of 99.146385
+Smile: true, with a confidence level of 73.35536
+Bounding Box Details: Width: 0.34301886, Height: 0.33168662, Left: 0.33088583, Top: 0.1744823
+
+Details of image: image_ (21).jpg
+Gender: Female, with a confidence level of 99.99119
+Age Range: 24, with a confidence level of 34
+Beard: false, with a confidence level of 95.28448
+Smile: false, with a confidence level of 57.746063
+Bounding Box Details: Width: 0.11890192, Height: 0.3299089, Left: 0.44416168, Top: 0.12666498
+
+Details of image: image_ (22).jpg
+Gender: Male, with a confidence level of 99.4459
+Age Range: 43, with a confidence level of 51
+Beard: true, with a confidence level of 99.94567
+Smile: true, with a confidence level of 80.23527
+Bounding Box Details: Width: 0.2922303, Height: 0.62829566, Left: 0.31747866, Top: 0.15556441
+
+Details of image: image_ (23).jpg
+Gender: Male, with a confidence level of 99.994415
+Age Range: 54, with a confidence level of 62
+Beard: true, with a confidence level of 81.09203
+Smile: true, with a confidence level of 90.36744
+Bounding Box Details: Width: 0.30201778, Height: 0.6734522, Left: 0.38271603, Top: 0.11681577
+
+Details of image: image_ (24).jpg
+Gender: Female, with a confidence level of 99.997894
+Age Range: 45, with a confidence level of 53
+Beard: false, with a confidence level of 96.2347
+Smile: true, with a confidence level of 94.10361
+Bounding Box Details: Width: 0.32317728, Height: 0.39795995, Left: 0.3205513, Top: 0.19892879
+
+Details of image: image_ (25).jpg
+Gender: Male, with a confidence level of 99.997955
+Age Range: 31, with a confidence level of 41
+Beard: true, with a confidence level of 99.90942
+Smile: false, with a confidence level of 77.970795
+Bounding Box Details: Width: 0.511432, Height: 0.4616237, Left: 0.23369703, Top: 0.13635099
+
+Details of image: image_ (26).jpg
+Gender: Male, with a confidence level of 99.997314
+Age Range: 29, with a confidence level of 39
+Beard: true, with a confidence level of 99.9564
+Smile: false, with a confidence level of 83.5804
+Bounding Box Details: Width: 0.2822718, Height: 0.30312103, Left: 0.3605925, Top: 0.1643717
+
+Details of image: image_ (3).jpg
+Gender: Female, with a confidence level of 99.99974
+Age Range: 36, with a confidence level of 44
+Beard: false, with a confidence level of 95.83806
+Smile: true, with a confidence level of 95.18764
+Bounding Box Details: Width: 0.30933732, Height: 0.77656174, Left: 0.33752048, Top: 0.0524312
+
+Details of image: image_ (4).jpg
+Gender: Male, with a confidence level of 99.94914
+Age Range: 50, with a confidence level of 58
+Beard: true, with a confidence level of 99.91413
+Smile: true, with a confidence level of 96.29309
+Bounding Box Details: Width: 0.1716756, Height: 0.3673895, Left: 0.42820787, Top: 0.15215644
+
+Details of image: image_ (5).jpg
+Gender: Female, with a confidence level of 99.99943
+Age Range: 23, with a confidence level of 33
+Beard: false, with a confidence level of 95.8413
+Smile: false, with a confidence level of 92.027504
+Bounding Box Details: Width: 0.313855, Height: 0.5423965, Left: 0.2850733, Top: 0.2062671
+
+Details of image: image_ (6).jpg
+Gender: Female, with a confidence level of 99.99836
+Age Range: 23, with a confidence level of 31
+Beard: false, with a confidence level of 93.966545
+Smile: true, with a confidence level of 95.13582
+Bounding Box Details: Width: 0.24918295, Height: 0.55626976, Left: 0.40912655, Top: 0.012127173
+
+Details of image: image_ (7).jpg
+Gender: Male, with a confidence level of 99.975426
+Age Range: 22, with a confidence level of 30
+Beard: false, with a confidence level of 80.793465
+Smile: false, with a confidence level of 94.61666
+Bounding Box Details: Width: 0.28615376, Height: 0.5732417, Left: 0.34780043, Top: 0.25519574
+
+Details of image: image_ (8).jpg
+Gender: Male, with a confidence level of 99.98168
+Age Range: 23, with a confidence level of 33
+Beard: true, with a confidence level of 99.86308
+Smile: false, with a confidence level of 94.67383
+Bounding Box Details: Width: 0.2803924, Height: 0.32398215, Left: 0.37361154, Top: 0.18679933
+
+Details of image: image_ (9).jpg
+Gender: Male, with a confidence level of 99.99495
+Age Range: 34, with a confidence level of 42
+Beard: true, with a confidence level of 99.96976
+Smile: false, with a confidence level of 92.149445
+Bounding Box Details: Width: 0.25563467, Height: 0.46949002, Left: 0.37905607, Top: 0.13520002
+

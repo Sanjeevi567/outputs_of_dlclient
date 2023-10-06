@@ -1,0 +1,39 @@
+1
+00:00:00,009 --> 00:00:03,420
+Machine learning is employed in a range of computing tasks where designing
+
+2
+00:00:03,430 --> 00:00:05,409
+and programming explicit algorithms with good
+
+3
+00:00:05,420 --> 00:00:07,480
+performance is difficult or infeasible.
+
+4
+00:00:07,550 --> 00:00:08,239
+Example,
+
+5
+00:00:08,250 --> 00:00:10,979
+applications include email filtering detection of
+
+6
+00:00:10,989 --> 00:00:12,909
+network intruders and computer vision.
+
+7
+00:00:13,060 --> 00:00:16,700
+Machine learning is closely related to computational statistics which also
+
+8
+00:00:16,709 --> 00:00:20,040
+focuses on predictions making through the use of computer.
+
+9
+00:00:20,270 --> 00:00:23,329
+It has strong ties to mathematical optimization which delivers
+
+10
+00:00:23,340 --> 00:00:26,159
+methods theory and application domains to the field.
